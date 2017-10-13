@@ -1,11 +1,17 @@
 /* your style here */
 
-#head-page.adminbar-not-here.notopbar.reveal.alt {
-    /* top: 30px !important; */
-    /* background: #fff !important; */
-    background: transparent !important;
-    float: right;
+#head-page.adminbar-not-here.reveal.notopbar.solid {
+  background: rgba(127,195,237,.95) !important;
+  margin: 0 !important;
+  box-shadow: none !important;
 }
+
+#head-page.adminbar-not-here.reveal.notopbar.solid.alt {
+    background: transparent !important;
+  margin: 60px 0 !important;
+/*    float: right; */
+}
+
 
 #head-page.adminbar-not-here.notopbar.reveal.alt #menu-main-menu .menu-item {
     float: right;
@@ -32,6 +38,10 @@
     padding: 0 15px 10px;
 }
 
+#dt-menu li:hover {
+  background: #81c1e8;
+}
+
 .home #head-page.alt #dt-menu > ul > li > a {
     color: rgba(255,255,255,.8);
     text-transform: uppercase;
@@ -42,7 +52,7 @@
 }
 
 #dt-menu > ul > li > a {
-    color: rgba(255,255,255,.8);
+    color: rgba(255,255,255,.8) !important;
     text-transform: uppercase;
 }
 
@@ -55,6 +65,7 @@
 }
 
 #main-banner {
+/*
     background: url(http://pixt.dev/wp-content/uploads/2017/10/homepage-laptop.jpg?id=12) no-repeat;
     background-size: cover;
     width: 100%;
@@ -66,8 +77,49 @@
     bottom: 0;
     right: 0;
     left: 0;
+*/
 }
 
 .head-page #dt-menu.dt-menu-right .menu-item-type-search, .head-page #dt-menu.dt-menu-right .bag #menu-item-34 {
     display: none !important;
 }
+
+body > .content {
+  background: #292e33 url(http://pixt.dev/wp-content/uploads/2017/10/homepage-laptop.jpg?id=12) no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 986px;
+  padding: 100px 0 !important;
+/*    background-position: 50% -23px;
+    position: absolute;
+    background-color: #292e33;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+*/
+}
+
+.page-template-fullwidth .container {
+  width: 100% !important;
+}
+
+.first-section .wpb_wrapper {
+  margin: 0 auto;
+  width: 1200px;
+  padding: 100px 0 !important;
+}
+
+.home .hero .hero-container {
+    width: 35%;
+    float: left;
+    margin-left: 5em;
+    text-align: left;
+}
+
+.first-section {
+  margin-top: 800px;
+  margin-left: -15px;
+  margin-right: -15px;
+}
+
