@@ -1,44 +1,73 @@
 /* your style here */
 
 #head-page.adminbar-not-here.notopbar.reveal.alt {
-  /* top: 30px !important; */
-  /* background: #fff !important; */
-  background: transparent !important;
-  float: right;
+    /* top: 30px !important; */
+    /* background: #fff !important; */
+    background: transparent !important;
+    float: right;
 }
 
 #head-page.adminbar-not-here.notopbar.reveal.alt #menu-main-menu .menu-item {
-  float: right;
-  text-align: right;
+    float: right;
+    text-align: right;
 }
 
 #head-page.adminbar-not-here.notopbar.reveal.alt #menu-main-menu .menu-item a, #head-page.adminbar-not-here.notopbar.reveal.alt #menu-main-menu .menu-item a span {
-  color: #fff;
+    color: red;
 }
 
 #head-page.adminbar-not-here.notopbar.reveal.alt .home #head-page.alt #dt-menu > ul > li > a {
-  color: #333 !important;
+    color: #333 !important;
 }
 
 #head-page.adminbar-not-here.notopbar.reveal {
-  background: rgba(127,195,237,.95) !important;
+    background: rgba(127,195,237,.95) !important;
 }
 
 #head-page.transparent.alt #logomenu {
-  height: 60px;
+    height: 60px;
 }
 
 #dt-menu {
-  padding: 0 15px 10px;
+    padding: 0 15px 10px;
 }
 
 .home #head-page.alt #dt-menu > ul > li > a {
-  color: #333 !important;
+    color: rgba(255,255,255,.8);
+    text-transform: uppercase;
+}
+
+#dt-menu > ul > li:hover > a {
+    color:#fff;
+}
+
+#dt-menu > ul > li > a {
+    color: rgba(255,255,255,.8);
+    text-transform: uppercase;
 }
 
 .transition:hover {
-  background-color: pink;
+    background-color: pink;
 }
 
-#main-banner section#banner-section {background: url(http://pixt.dev/wp-content/uploads/2017/10/homepage-laptop.jpg) no-repeat 50% 50%; max-height: 100%; background-size: cover;
-min-height:400px;}
+.home #head-page #dt-menu.dt-menu-right > ul {
+    text-align: right;
+}
+
+#main-banner {
+    background: url(http://pixt.dev/wp-content/uploads/2017/10/homepage-laptop.jpg?id=12) no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 960px;
+    background-position: 50% -23px;
+    position: absolute;
+    background-color: #292e33;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+
+.head-page #dt-menu.dt-menu-right .menu-item-type-search, .head-page #dt-menu.dt-menu-right .bag #menu-item-34 {
+    display: none !important;
+}
