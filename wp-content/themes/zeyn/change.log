@@ -1,0 +1,25 @@
+Zeyn WP template
+=================
+Version 1.1
+- New : Zeyn now support video Background
+- Updated : Visual Composer 4.3.4
+
+Version 1.0.6
+- Fixed: Theme coloring on multisite WordPress
+
+Version 1.0.5
+- Added: widget text render shortcode
+
+Version 1.0.4
+- Fixed: vc cta btn 2 link
+- Fixed: showing banner at homepage
+- Fixed: installation failure on WP 3.6
+
+Version 1.0.3
+
+
+01 Ocktober 2014	: Version 1.0.1
+
+- Fix Lazy load preloader portfolio ( Chrome Browser )
+
+30 September 2014 	: Initial release

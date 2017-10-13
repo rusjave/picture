@@ -1,0 +1,44 @@
+/* your style here */
+
+#head-page.adminbar-not-here.notopbar.reveal.alt {
+  /* top: 30px !important; */
+  /* background: #fff !important; */
+  background: transparent !important;
+  float: right;
+}
+
+#head-page.adminbar-not-here.notopbar.reveal.alt #menu-main-menu .menu-item {
+  float: right;
+  text-align: right;
+}
+
+#head-page.adminbar-not-here.notopbar.reveal.alt #menu-main-menu .menu-item a, #head-page.adminbar-not-here.notopbar.reveal.alt #menu-main-menu .menu-item a span {
+  color: #fff;
+}
+
+#head-page.adminbar-not-here.notopbar.reveal.alt .home #head-page.alt #dt-menu > ul > li > a {
+  color: #333 !important;
+}
+
+#head-page.adminbar-not-here.notopbar.reveal {
+  background: rgba(127,195,237,.95) !important;
+}
+
+#head-page.transparent.alt #logomenu {
+  height: 60px;
+}
+
+#dt-menu {
+  padding: 0 15px 10px;
+}
+
+.home #head-page.alt #dt-menu > ul > li > a {
+  color: #333 !important;
+}
+
+.transition:hover {
+  background-color: pink;
+}
+
+#main-banner section#banner-section {background: url(http://pixt.dev/wp-content/uploads/2017/10/homepage-laptop.jpg) no-repeat 50% 50%; max-height: 100%; background-size: cover;
+min-height:400px;}

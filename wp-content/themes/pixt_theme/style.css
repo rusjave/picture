@@ -1,0 +1,14 @@
+/*
+Theme Name:         Pixt theme
+Theme URI:          http://www.detheme.com
+Description:        Child Theme
+Version:            1.0.0
+Author:             deTheme
+Author URI:         http://detheme.com
+Template: 			pixt
+License:            MIT License
+License URI:        http://www.opensource.org/licenses/mit-license.php
+*/
+@import url("../zeyn/style.css");
+
+@import url("css/mystyle.css");  

@@ -1,0 +1,1287 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zeyn v1.0.6\n"
+"Report-Msgid-Bugs-To: support@detheme.com\n"
+"POT-Creation-Date: 2014-02-27 05:25:07+00:00\n"
+"PO-Revision-Date: 2015-09-29 09:43+0700\n"
+"Last-Translator: Atawai <celomitan@yahoo.com>\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+
+# @ detheme
+#: 404.php:15
+msgid "404"
+msgstr ""
+
+# @ detheme
+#: 404.php:16
+msgid "Error 404"
+msgstr ""
+
+# @ detheme
+#: 404.php:19
+msgid "Go back to Our Homepage"
+msgstr ""
+
+# @ detheme
+#: 404.php:19
+msgid "Page not found"
+msgstr "Страница не найдена"
+
+# @ detheme
+#: archive-port.php:88
+msgid "Load More"
+msgstr ""
+
+#: category.php:63
+msgid "Category Archives: %s"
+msgstr ""
+
+# @ detheme
+#: comments.php:34
+msgid "Comments are closed."
+msgstr ""
+
+# @ detheme
+msgid "% Comments"
+msgstr "% Комментариев"
+
+# @ detheme
+#, fuzzy
+msgid "No Comments"
+msgstr "% Комментариев"
+
+# @ detheme
+msgid "1 Comment"
+msgstr "1 Комментарий"
+
+#: content-audio.php:111
+msgid "About %s"
+msgstr ""
+
+# @ detheme
+#: content-none.php:18
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+# @ detheme
+#: content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+# @ detheme
+#: content-none.php:26
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+# @ detheme
+#: content-portfolio-text.php:61
+msgid "Detail to %s"
+msgstr ""
+
+# @ detheme
+#: functions.php:100
+msgid "Top Navigation"
+msgstr ""
+
+# @ detheme
+#: functions.php:112
+msgid "Sidebar Widget Area"
+msgstr ""
+
+# @ detheme
+#: functions.php:119
+msgid "Bottom Widget Area"
+msgstr ""
+
+# @ detheme
+#: port.php:95
+msgid "Project Description"
+msgstr "Project Description Rusian"
+
+# @ detheme
+#: port.php:103
+msgid "Project Detail"
+msgstr ""
+
+# @ detheme
+#: port.php:128
+msgid "launch project"
+msgstr ""
+
+# @ detheme
+#: port.php:157
+msgid "Related Project"
+msgstr "Related Project in Rusian"
+
+# @ detheme
+# @ redux-framework
+#: port.php:157
+msgid "Tags"
+msgstr ""
+
+# @ detheme
+#: search.php:66
+msgid "Search Results for: %s"
+msgstr ""
+
+# @ detheme
+#: search.php:97
+msgid "Previous"
+msgstr ""
+
+# @ detheme
+#: search.php:102
+msgid "Next"
+msgstr ""
+
+# @ detheme
+#: sendmail.php:38
+msgid "Name : "
+msgstr ""
+
+# @ detheme
+#: sendmail.php:40
+msgid "Email : "
+msgstr ""
+
+# @ detheme
+#: sendmail.php:42
+msgid "Phone : "
+msgstr ""
+
+# @ detheme
+#: sendmail.php:44
+msgid "Message : "
+msgstr ""
+
+# @ detheme
+#: sendmail.php:52
+msgid "Contact from "
+msgstr ""
+
+# @ detheme
+#: sendmail.php:65
+msgid "Captcha value is wrong."
+msgstr ""
+
+# @ detheme
+#: pagetemplates/portfolio-typr-image.php:59
+msgid "Toggle navigation"
+msgstr ""
+
+# @ detheme
+#: pagetemplates/portfolio-typr-image.php:65
+msgid "All Projects"
+msgstr ""
+
+# @ detheme
+# @ redux-framework
+#: pagetemplates/topbar-leftmenu.php:59
+msgid "Menu"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:156
+msgid "Page Attributes"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:175
+msgid "(no parent)"
+msgstr ""
+
+# @ detheme
+# @ redux-framework
+#: custom_function.php:183
+msgid "Left"
+msgstr ""
+
+#: custom_function.php:183
+msgid "Center"
+msgstr ""
+
+# @ detheme
+# @ redux-framework
+#: custom_function.php:183
+msgid "Right"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:183
+msgid "No Sidebar"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:232
+msgid "Parent"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:175
+msgid "Hide title"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:175
+msgid "Disable Lightbox 1st Visit"
+msgstr ""
+
+# @ redux-framework
+#: custom_function.php:175
+msgid "Page Loader"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:175
+msgid "Disable Page Loader"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:175
+msgid "Disable Exit Popup"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:79
+msgid "Select Layout Type"
+msgstr ""
+
+# @ detheme
+# @ redux-framework
+#: custom_function.php:81
+msgid "Default"
+msgstr ""
+
+#: custom_function.php:82
+msgid "Carousel"
+msgstr ""
+
+#: custom_function.php:230
+msgid "Page Subtitle"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:241
+msgid "Template"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:242
+msgid "Page Template"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:243
+msgid "Default Template"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:250
+msgid "Squared Image (boxed)"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:251
+msgid "Image and Text (boxed)"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:251
+msgid "Squared Image(full)"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:251
+msgid "Fix Height Image(full)"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:256
+msgid "Select Column"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:260
+msgid "%d Column"
+msgid_plural "%d Columns"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ detheme
+#: custom_function.php:278
+msgid "Sidebar Position"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:292
+msgid "Order"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:480
+msgid "Back"
+msgstr ""
+
+# @ detheme
+# @ woocommerce
+#: custom_function.php:560
+msgid "Search"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:572
+msgid "Close"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:294
+msgid "Need help? Use the Help tab in the upper right of your screen."
+msgstr ""
+
+# @ detheme
+#: custom_function.php:621
+msgid "Submit"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:621
+msgid "Cancel reply"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:619
+msgid "Leave a Comment to %s"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:618
+msgid "Leave a Comment"
+msgstr "Оставить комментарий"
+
+# @ detheme
+#: custom_function.php:614
+msgid "Your email address will not be published."
+msgstr ""
+
+# @ detheme
+#: custom_function.php:613 custom_function.php:612 custom_function.php:608
+msgid "your message"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:603
+msgid "Required fields are marked %s"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:592
+msgid "full name"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:595
+msgid "email address"
+msgstr ""
+
+msgid "website"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:689
+msgid "Reply"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:690
+msgid "Log in to Reply"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:755
+msgid "Pingback:"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:755
+msgid "Edit"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:1071
+msgid "%d View"
+msgstr ""
+
+# @ default
+#: custom_function.php:1071
+msgid "% Views"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:1116
+msgid "Views"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:2004
+msgid "Button style"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:2010
+msgid "Primary"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:2011
+msgid "Secondary"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:2012
+msgid "Success"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:2013
+msgid "Info"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:2014
+msgid "Warning"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:2015
+msgid "Danger"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:2016
+msgid "Ghost Button"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:2017
+msgid "Link"
+msgstr ""
+
+# @ detheme
+# @ redux-framework
+#: custom_function.php:2026
+msgid "Size"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:2026
+msgid "Large"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:2026
+msgid "Small"
+msgstr ""
+
+# @ detheme
+#: shortcode.php:273
+msgid "Medium"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:2026
+msgid "Extra small"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:2029
+msgid "Expand section width"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:2032
+msgid "Expand Column"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:2032
+msgid "Expand Background"
+msgstr ""
+
+# @ detheme
+#: custom_function.php:2033
+msgid "Make section \"out of the box\"."
+msgstr ""
+
+# @ detheme
+#: widgets.php:5
+msgid "Display most recent Posts in Carousel."
+msgstr ""
+
+# @ detheme
+# @ default
+#: widgets.php:28
+msgid "Recent Posts"
+msgstr ""
+
+# @ detheme
+#: widgets.php:147
+msgid "Title:"
+msgstr ""
+
+# @ detheme
+#: widgets.php:149
+msgid "Number of posts to show:"
+msgstr ""
+
+# @ detheme
+#: widgets.php:151
+msgid "Number of posts per slide:"
+msgstr ""
+
+# @ detheme
+#: widgets.php:154
+msgid "Display post date ?"
+msgstr ""
+
+# @ detheme
+#: widgets.php:156
+msgid "Display thumbnail ?"
+msgstr ""
+
+# @ detheme
+#: widgets.php:158
+msgid "Display Author Name ?"
+msgstr ""
+
+# @ detheme
+#: widgets.php:159
+msgid "Categories"
+msgstr ""
+
+# @ detheme
+#: widgets.php:183
+msgid "Display popular posts, recent posts, and recent comments in Tabulation."
+msgstr ""
+
+# @ detheme
+#: widgets.php:184
+msgid "DT Tabs"
+msgstr ""
+
+# @ detheme
+#: widgets.php:212
+msgid "Popular"
+msgstr ""
+
+# @ detheme
+#: widgets.php:213
+msgid "Recent"
+msgstr ""
+
+# @ detheme
+# @ redux-framework
+#: widgets.php:214
+#, fuzzy
+msgid "Comments"
+msgstr "% Комментариев"
+
+# @ detheme
+#: widgets.php:396
+msgid "Number of posts/comments to show:"
+msgstr ""
+
+# @ detheme
+#: widgets.php:405
+msgid "Display post image"
+msgstr ""
+
+# @ detheme
+#: widgets.php:406
+msgid "DT Post Image"
+msgstr ""
+
+# @ detheme
+#: widgets.php:504
+msgid "All category or just in categories"
+msgstr ""
+
+# @ detheme
+#: widgets.php:527
+msgid "Display portfolio image"
+msgstr ""
+
+# @ detheme
+#: widgets.php:528
+msgid "DT Portfolio Image"
+msgstr ""
+
+# @ detheme
+#: widgets.php:658
+msgid "Display shortcode gallery in widget."
+msgstr ""
+
+# @ detheme
+#: widgets.php:660
+msgid "DT Image Gallery"
+msgstr ""
+
+# @ detheme
+#: widgets.php:703
+msgid "Display most recent portfolio."
+msgstr ""
+
+# @ detheme
+#: widgets.php:704
+msgid "DT Recent Portfolio"
+msgstr ""
+
+# @ detheme
+#: widgets.php:808
+msgid "Number of portfolio to show:"
+msgstr ""
+
+# @ detheme
+#: widgets.php:1187
+msgid "Display comment content?"
+msgstr ""
+
+# @ detheme
+#: widgets.php:1184
+msgid "Number of comments to show:"
+msgstr ""
+
+# @ detheme
+#: widgets.php:1194
+msgid "Display most recent tweets from twitter in slider."
+msgstr ""
+
+# @ detheme
+#: widgets.php:1195
+msgid "DT Twitter Slider"
+msgstr ""
+
+# @ detheme
+#: widgets.php:1630
+msgid "Twitter Account:"
+msgstr ""
+
+# @ detheme
+#: widgets.php:1637
+msgid "Number of tweets to show:"
+msgstr ""
+
+# @ detheme
+#: widgets.php:1644
+msgid "Date Format:"
+msgstr ""
+
+# @ detheme
+#: widgets.php:1646
+msgid ""
+"%d : day, %m: month in number, %b: textual month abbreviation, %B: textual "
+"month, %y: 2 digit year, %Y: 4 digit year"
+msgstr ""
+
+# @ detheme
+#: widgets.php:1652
+msgid "Template :"
+msgstr ""
+
+# @ detheme
+#: widgets.php:1657
+msgid "{{date}}: Post Date, {{tweet}}: tweet text"
+msgstr ""
+
+# @ detheme
+#: widgets.php:1660
+msgid "Auto Play:"
+msgstr ""
+
+# @ detheme
+#: widgets.php:1672
+msgid "Transition Threshold (msec):"
+msgstr ""
+
+# @ detheme
+#: widgets.php:1325
+msgid "Display information in accordion style."
+msgstr ""
+
+# @ detheme
+#: widgets.php:1326
+msgid "DT Accordion"
+msgstr ""
+
+# @ detheme
+#: widgets.php:1348
+msgid "Accordion Title 1:"
+msgstr ""
+
+# @ detheme
+#: widgets.php:1350
+#, fuzzy
+msgid "Accordion Description 1:"
+msgstr "1 Комментарий"
+
+# @ detheme
+#: widgets.php:1348
+msgid "Accordion Title 2:"
+msgstr ""
+
+# @ detheme
+#: widgets.php:1350
+msgid "Accordion Description 2:"
+msgstr ""
+
+# @ detheme
+#: widgets.php:1348
+msgid "Accordion Title 3:"
+msgstr ""
+
+# @ detheme
+#: widgets.php:1350
+msgid "Accordion Description 3:"
+msgstr ""
+
+# @ detheme
+#: widgets.php:1348
+msgid "Accordion Title 4:"
+msgstr ""
+
+# @ detheme
+#: widgets.php:1350
+msgid "Accordion Description 4:"
+msgstr ""
+
+# @ detheme
+#: lib/shortcode.php
+msgid "Select the button's style, ie the button's colour"
+msgstr ""
+
+# @ detheme
+#: lib/shortcode.php
+msgid "Button size."
+msgstr ""
+
+# @ detheme
+#: lib/shortcode.php
+msgid "Button URL"
+msgstr ""
+
+# @ detheme
+#: lib/shortcode.php
+msgid "Button skin"
+msgstr ""
+
+# @ detheme
+#: lib/shortcode.php
+msgid "Dark (default)"
+msgstr ""
+
+# @ detheme
+#: lib/shortcode.php
+msgid "Light"
+msgstr ""
+
+# @ detheme
+#: lib/shortcode.php
+msgid "Select the button's skin"
+msgstr ""
+
+# @ detheme
+#: lib/shortcode.php
+msgid "The value must be numeric"
+msgstr ""
+
+# @ detheme
+#: lib/shortcode.php
+msgid "Number"
+msgstr ""
+
+# @ detheme
+#: lib/shortcode.php
+msgid "Add the button's url eg http://example.com"
+msgstr ""
+
+# @ detheme
+#: lib/shortcode.php
+msgid "Button Target"
+msgstr ""
+
+# @ detheme
+#: lib/shortcode.php
+msgid "Select the button's target"
+msgstr ""
+
+# @ detheme
+#: lib/shortcode.php
+msgid "Button Text"
+msgstr ""
+
+# @ detheme
+#: lib/shortcode.php
+msgid "Select the button's text"
+msgstr ""
+
+# @ detheme
+#: lib/shortcode.php
+msgid "Self"
+msgstr ""
+
+# @ detheme
+#: lib/shortcode.php
+msgid "Blank"
+msgstr ""
+
+# @ detheme
+#: lib/shortcode.php
+msgid "Icon Size"
+msgstr ""
+
+# @ detheme
+#: lib/shortcode.php
+msgid "Icon Color"
+msgstr ""
+
+# @ detheme
+#: lib/shortcode.php
+msgid "Icon Style"
+msgstr ""
+
+# @ detheme
+#: lib/shortcode.php
+msgid "Select the button's color"
+msgstr ""
+
+# @ detheme
+#: lib/shortcode.php
+msgid "Circle"
+msgstr ""
+
+# @ detheme
+#: lib/shortcode.php
+msgid "Ghost"
+msgstr ""
+
+# @ detheme
+#: lib/shortcode.php
+msgid "Select the button's style"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "by %s"
+msgstr ""
+
+# @ detheme
+#: lib/custom_function.php:1363
+msgid "You are here"
+msgstr ""
+
+# @ detheme
+#: lib/custom_function.php:1333
+msgid "Home"
+msgstr ""
+
+# @ detheme
+#: pagetemplates/social-share.php
+msgid "Share"
+msgstr ""
+
+# @ detheme
+#: lib/custom_functions.php
+msgid "Extended options"
+msgstr ""
+
+# @ detheme
+#: lib/custom_functions.php
+msgid "Visit %s&#8217;s website"
+msgstr ""
+
+# @ detheme
+# @ redux-framework
+#: lib/custom_functions.php
+msgid "Background Image"
+msgstr ""
+
+# @ detheme
+#: lib/custom_functions.php
+msgid "Set background image"
+msgstr ""
+
+# @ detheme
+#: lib/custom_functions.php
+msgid "Remove background image"
+msgstr ""
+
+# @ detheme
+#: lib/custom_functions.php
+msgid "Background Style"
+msgstr ""
+
+# @ detheme
+#: lib/custom_functions.php
+msgid "Parallax"
+msgstr ""
+
+# @ wpb
+#: lib/custom_functions.php
+msgid "Cover All"
+msgstr ""
+
+# @ detheme
+#: lib/custom_functions.php
+msgid "Parallax All"
+msgstr ""
+
+# @ detheme
+#: lib/custom_functions.php
+msgid "Fixed"
+msgstr ""
+
+msgid "Blank - Page Builder"
+msgstr ""
+
+msgid "Blank - Default"
+msgstr ""
+
+msgid "Woocommerce Page"
+msgstr ""
+
+msgid "Fullwidth"
+msgstr ""
+
+# @ detheme
+msgid "Post SEO"
+msgstr ""
+
+# @ detheme
+msgid "Page SEO"
+msgstr ""
+
+# @ detheme
+msgid "Product SEO"
+msgstr ""
+
+# @ detheme
+msgid "Portfolio SEO"
+msgstr ""
+
+# @ detheme
+# @ redux-framework
+msgid "Meta Author"
+msgstr ""
+
+msgid "Type your meta author."
+msgstr ""
+
+# @ detheme
+msgid "Meta Keyword"
+msgstr ""
+
+# @ detheme
+msgid ""
+"Type your meta keyword separed by comma. Googlebot loves it if it's not "
+"exceeding 160 characters or 20 words."
+msgstr ""
+
+# @ detheme
+# @ redux-framework
+msgid "Meta Description"
+msgstr ""
+
+# @ detheme
+msgid ""
+"Type your meta description. Googlebot loves it if it's not exceeding 160 "
+"characters or 20 words."
+msgstr ""
+
+msgid ""
+"Paste your html code here. It will be added before the closing </body> tag."
+msgstr ""
+
+# @ detheme
+msgid "Custom Code"
+msgstr ""
+
+msgid "The Awesome Wordpress Theme by djavaweb"
+msgstr ""
+
+# @ detheme
+msgid "Your website using %s template"
+msgstr ""
+
+# @ detheme
+msgid "Register Template"
+msgstr ""
+
+# @ detheme
+msgid "%d day"
+msgstr ""
+
+# @ detheme
+msgid "%d days"
+msgstr ""
+
+# @ detheme
+msgid "expired"
+msgstr ""
+
+# @ detheme
+msgid "%s template license will expired in %s."
+msgstr ""
+
+msgid "You can extend license"
+msgstr ""
+
+msgid "Extend License"
+msgstr ""
+
+# @ detheme
+msgid "%s template license was expired."
+msgstr ""
+
+msgid "Renew License"
+msgstr ""
+
+# @ detheme
+msgid "License key using by system to update support"
+msgstr ""
+
+msgid "or"
+msgstr ""
+
+msgid "Zeyn template not support higher version"
+msgstr ""
+
+msgid "This theme requires the following plugins: %1$s."
+msgstr ""
+
+# @ detheme
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+# @ detheme
+msgid "Begin installing plugin"
+msgstr ""
+
+msgid "Begin installing plugins"
+msgstr ""
+
+# @ tgmpa
+msgid "Install Required Plugins"
+msgstr ""
+
+# @ tgmpa
+msgid "Install Plugins"
+msgstr ""
+
+# @ tgmpa
+msgid "Installing Plugin: %s"
+msgstr ""
+
+# @ tgmpa
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+# @ tgmpa
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+# @ tgmpa
+msgid "Plugin activated successfully."
+msgstr ""
+
+# @ tgmpa
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+# @ detheme
+msgid "Activate installed plugin"
+msgstr ""
+
+msgid "Activate installed plugins"
+msgstr ""
+
+# @ detheme
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+msgid "This theme recommends the following plugins: %1$s."
+msgstr ""
+
+# @ detheme
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgstr ""
+
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr ""
+
+# @ detheme
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+msgid "The following required plugins are currently inactive: %1$s."
+msgstr ""
+
+msgid "The following recommended plugins are currently inactive: %1$s."
+msgstr ""
+
+# @ detheme
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+# @ detheme
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgstr ""
+
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr ""
+
+# @ detheme
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+msgid ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+# @ detheme
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgstr ""
+
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr ""
+
+# @ detheme
+msgid "Image Hover Option"
+msgstr ""
+
+# @ detheme
+# @ redux-framework
+msgid "Image"
+msgstr ""
+
+msgid "Video"
+msgstr ""
+
+# @ detheme
+msgid "Text"
+msgstr ""
+
+# @ detheme
+# @ redux-framework
+msgid "None"
+msgstr ""
+
+# @ detheme
+msgid "Animation Style"
+msgstr ""
+
+# @ detheme
+msgid "From Left"
+msgstr ""
+
+# @ detheme
+msgid "From Right"
+msgstr ""
+
+# @ detheme
+msgid "From Top"
+msgstr ""
+
+# @ detheme
+msgid "From Bottom"
+msgstr ""
+
+# @ detheme
+msgid "Diamond"
+msgstr ""
+
+# @ detheme
+msgid "%d item"
+msgstr ""
+
+# @ detheme
+msgid "%d items"
+msgstr ""
+
+# @ detheme
+msgid ""
+"If you wish to add anchor id to this row. Anchor id may used as link like "
+"href=\"#yourid\""
+msgstr ""
+
+# @ detheme
+msgid "Extra id"
+msgstr ""
+
+# @ detheme
+msgid "Pre Title"
+msgstr ""
+
+msgid "To search type and hit enter"
+msgstr ""
+
+msgid "Background Type"
+msgstr ""
+
+msgid "Background Video (mp4)"
+msgstr ""
+
+msgid "Video Source"
+msgstr ""
+
+msgid "Local Server"
+msgstr ""
+
+msgid "Video link"
+msgstr ""
+
+msgid "Add YouTube/Vimeo link"
+msgstr ""
+
+msgid "Background Video (webm)"
+msgstr ""
+
+msgid "Loading..."
+msgstr ""
+
+msgid "Read more"
+msgstr ""

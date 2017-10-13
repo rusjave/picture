@@ -1,0 +1,19 @@
+#TB_window {
+  z-index: 999999;
+}
+
+#TB_overlay {
+  z-index: 11001;
+}
+
+.mce-ico.mce-i-dt_code{
+	background: url("../images/dt_icon.png") -5px -5px no-repeat;
+}
+
+.mce-i-dt_icon, .mce-i-dt_button, .mce-i-dt_counto {
+	display: none!important;
+}
+
+/* Select Video / Select Video (multiple)
+---------------------------------------------------------- */
+

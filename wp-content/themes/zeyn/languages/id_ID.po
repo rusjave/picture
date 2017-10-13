@@ -1,0 +1,1111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zeyn 1.0\n"
+"Report-Msgid-Bugs-To: support@detheme.com\n"
+"POT-Creation-Date: 2014-02-27 05:25:07+00:00\n"
+"PO-Revision-Date: 2015-09-29 09:43+0700\n"
+"Last-Translator: Atawai <celomitan@yahoo.com>\n"
+"Language-Team: support@detheme.com\n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: 404.php:15
+msgid "404"
+msgstr ""
+
+#: 404.php:16
+msgid "Error 404"
+msgstr "Galat 404"
+
+#: 404.php:19
+msgid "Go back to Our Homepage"
+msgstr "Kembali ke Beranda Kami"
+
+#: 404.php:19
+msgid "Page not found"
+msgstr "Halaman tidak ditemukan"
+
+#: archive-port.php:88
+msgid "Load More"
+msgstr "Selanjutnya"
+
+#: category.php:63
+msgid "Category Archives: %s"
+msgstr "Arsip Kategori: %s"
+
+#: comments.php:34
+msgid "Comments are closed."
+msgstr "Komentar ditutup"
+
+msgid "% Comments"
+msgstr "% Komentar"
+
+msgid "No Comments"
+msgstr "Tanpa komentar"
+
+msgid "1 Comment"
+msgstr "1 komentar"
+
+#: content-audio.php:111
+msgid "About %s"
+msgstr "Tentang %s"
+
+#: content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: content-none.php:26
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: content-portfolio-text.php:61
+msgid "Detail to %s"
+msgstr "Detil ke %s"
+
+#: functions.php:100
+#, fuzzy
+msgid "Top Navigation"
+msgstr "Navigasi Atas"
+
+#: functions.php:112
+#, fuzzy
+msgid "Sidebar Widget Area"
+msgstr "Area Widget Samping"
+
+#: functions.php:119
+msgid "Bottom Widget Area"
+msgstr ""
+
+#: port.php:95
+msgid "Project Description"
+msgstr "Keterangan Proyek"
+
+#: port.php:103
+msgid "Project Detail"
+msgstr "Detil Proyek"
+
+#: port.php:128
+#, fuzzy
+msgid "launch project"
+msgstr "Detil Proyek"
+
+#: port.php:157
+msgid "Related Project"
+msgstr "Proyek Yang Berkaitan"
+
+#: port.php:157
+msgid "Tags"
+msgstr "Penanda"
+
+#: search.php:66
+msgid "Search Results for: %s"
+msgstr "Hasil pencarian untuk: %s"
+
+#: search.php:97
+msgid "Previous"
+msgstr "Sebelumnya"
+
+#: search.php:102
+msgid "Next"
+msgstr "Selanjutnya"
+
+#: sendmail.php:38
+#, fuzzy
+msgid "Name : "
+msgstr "Nama: "
+
+#: sendmail.php:40
+#, fuzzy
+msgid "Email : "
+msgstr "Surel : "
+
+#: sendmail.php:42
+#, fuzzy
+msgid "Phone : "
+msgstr "Telepone : "
+
+#: sendmail.php:44
+#, fuzzy
+msgid "Message : "
+msgstr "Pesan : "
+
+#: sendmail.php:52
+#, fuzzy
+msgid "Contact from "
+msgstr "Dari:"
+
+#: sendmail.php:65
+msgid "Captcha value is wrong."
+msgstr ""
+
+#: pagetemplates/portfolio-typr-image.php:59
+#, fuzzy
+msgid "Toggle navigation"
+msgstr "Alih Navigasi"
+
+#: pagetemplates/portfolio-typr-image.php:65
+msgid "All Projects"
+msgstr "Semua Proyek"
+
+#: pagetemplates/topbar-leftmenu.php:59
+#, fuzzy
+msgid "Menu"
+msgstr "Menu dilewati karena ketidak sesuaian slug"
+
+#: custom_function.php:156
+#, fuzzy
+msgid "Page Attributes"
+msgstr "Atribut Halaman"
+
+#: custom_function.php:175
+#, fuzzy
+msgid "(no parent)"
+msgstr "(tanpa indux)"
+
+#: custom_function.php:183
+msgid "Left"
+msgstr "Kiri"
+
+#: custom_function.php:183
+msgid "Center"
+msgstr "Tengah"
+
+#: custom_function.php:183
+msgid "Right"
+msgstr "Kanan"
+
+#: custom_function.php:183
+msgid "No Sidebar"
+msgstr "Tanpa Sidebar"
+
+#: custom_function.php:232
+#, fuzzy
+msgid "Parent"
+msgstr "Induk"
+
+#: custom_function.php:175
+msgid "Hide title"
+msgstr "Sembunyikan Judul"
+
+#: custom_function.php:175
+msgid "Disable Lightbox 1st Visit"
+msgstr "Matikan penyembul kunjungan pertama"
+
+#: custom_function.php:175
+msgid "Page Loader"
+msgstr "Preloader Halaman"
+
+#: custom_function.php:175
+msgid "Disable Page Loader"
+msgstr "Matikan Preloader"
+
+#: custom_function.php:175
+msgid "Disable Exit Popup"
+msgstr "Matikan Penyembul Pergi"
+
+#: custom_function.php:79
+#, fuzzy
+msgid "Select Layout Type"
+msgstr "Pilih Tipe Tampilan"
+
+#: custom_function.php:81
+#, fuzzy
+msgid "Default"
+msgstr "Standar"
+
+#: custom_function.php:82
+msgid "Carousel"
+msgstr ""
+
+#: custom_function.php:230
+#, fuzzy
+msgid "Page Subtitle"
+msgstr "Sub Judul"
+
+#: custom_function.php:241
+#, fuzzy
+msgid "Template"
+msgstr "Template Halaman"
+
+#: custom_function.php:242
+#, fuzzy
+msgid "Page Template"
+msgstr "Template Halaman"
+
+#: custom_function.php:243
+#, fuzzy
+msgid "Default Template"
+msgstr "Template Halaman"
+
+#: custom_function.php:250
+#, fuzzy
+msgid "Squared Image (boxed)"
+msgstr "Gambar"
+
+#: custom_function.php:251
+#, fuzzy
+msgid "Image and Text (boxed)"
+msgstr "Gambar"
+
+#: custom_function.php:251
+#, fuzzy
+msgid "Squared Image(full)"
+msgstr "Tipe 1: Icon dengan bingkai kotak"
+
+#: custom_function.php:251
+msgid "Fix Height Image(full)"
+msgstr ""
+
+#: custom_function.php:256
+#, fuzzy
+msgid "Select Column"
+msgstr "Pilih Kolom"
+
+#: custom_function.php:260
+msgid "%d Column"
+msgid_plural "%d Columns"
+msgstr[0] ""
+msgstr[1] ""
+
+#: custom_function.php:278
+msgid "Sidebar Position"
+msgstr "Posisi Sidebar"
+
+#: custom_function.php:292
+#, fuzzy
+msgid "Order"
+msgstr "Urut ke"
+
+#: custom_function.php:480
+#, fuzzy
+msgid "Back"
+msgstr "Kembali"
+
+#: custom_function.php:560
+msgid "Search"
+msgstr "Pencarian"
+
+#: custom_function.php:572
+#, fuzzy
+msgid "Close"
+msgstr "Tutup"
+
+#: custom_function.php:294
+msgid "Need help? Use the Help tab in the upper right of your screen."
+msgstr ""
+
+#: custom_function.php:621
+#, fuzzy
+msgid "Submit"
+msgstr "Kirim"
+
+#: custom_function.php:621
+#, fuzzy
+msgid "Cancel reply"
+msgstr "Batal Membalas"
+
+#: custom_function.php:619
+#, fuzzy
+msgid "Leave a Comment to %s"
+msgstr "Tinggalkan komentar kepada %s"
+
+#: custom_function.php:618
+#, fuzzy
+msgid "Leave a Comment"
+msgstr "Tinggalkan Komentar"
+
+#: custom_function.php:614
+#, fuzzy
+msgid "Your email address will not be published."
+msgstr "Alamat email tidak akan dipublikasikan"
+
+# msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+# msgstr ""
+# msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+# msgstr ""
+#: custom_function.php:613 custom_function.php:612 custom_function.php:608
+#, fuzzy
+msgid "your message"
+msgstr "Komentar kamu"
+
+#: custom_function.php:603
+#, fuzzy
+msgid "Required fields are marked %s"
+msgstr "Isian wajib ditandai dengan %s"
+
+#: custom_function.php:592
+#, fuzzy
+msgid "full name"
+msgstr "nama lengkap"
+
+#: custom_function.php:595
+#, fuzzy
+msgid "email address"
+msgstr "alamat email"
+
+#, fuzzy
+msgid "website"
+msgstr "Laman Web"
+
+#: custom_function.php:689
+#, fuzzy
+msgid "Reply"
+msgstr "Balas"
+
+#: custom_function.php:690
+#, fuzzy
+msgid "Log in to Reply"
+msgstr "Log in untuk menbalas"
+
+#: custom_function.php:755
+msgid "Pingback:"
+msgstr ""
+
+#: custom_function.php:755
+#, fuzzy
+msgid "Edit"
+msgstr "Sunting"
+
+#: custom_function.php:1071
+#, fuzzy
+msgid "%d View"
+msgstr "%d kali"
+
+#: custom_function.php:1071
+#, fuzzy
+msgid "% Views"
+msgstr "% kali"
+
+#: custom_function.php:1116
+#, fuzzy
+msgid "Views"
+msgstr "pemirsa"
+
+#: custom_function.php:2004
+#, fuzzy
+msgid "Button style"
+msgstr "Model Tombol"
+
+#: custom_function.php:2010
+#, fuzzy
+msgid "Primary"
+msgstr "Primer"
+
+#: custom_function.php:2011
+#, fuzzy
+msgid "Secondary"
+msgstr "Sekunder"
+
+#: custom_function.php:2012
+msgid "Success"
+msgstr ""
+
+#: custom_function.php:2013
+msgid "Info"
+msgstr ""
+
+#: custom_function.php:2014
+#, fuzzy
+msgid "Warning"
+msgstr "Awas"
+
+#: custom_function.php:2015
+msgid "Danger"
+msgstr ""
+
+#: custom_function.php:2016
+#, fuzzy
+msgid "Ghost Button"
+msgstr "Model Tombol"
+
+#: custom_function.php:2017
+#, fuzzy
+msgid "Link"
+msgstr "Tautan"
+
+#: custom_function.php:2026
+msgid "Size"
+msgstr "Ukuran"
+
+#: custom_function.php:2026
+msgid "Large"
+msgstr "Besar"
+
+#: custom_function.php:2026
+msgid "Small"
+msgstr "Kecil"
+
+#: shortcode.php:273
+msgid "Medium"
+msgstr "Sedang"
+
+#: custom_function.php:2026
+msgid "Extra small"
+msgstr "Kecil banget"
+
+#: custom_function.php:2029
+#, fuzzy
+msgid "Expand section width"
+msgstr "Kembangkan Lebar Seksi"
+
+#: custom_function.php:2032
+#, fuzzy
+msgid "Expand Column"
+msgstr "Kembangkan Kolom"
+
+#: custom_function.php:2032
+#, fuzzy
+msgid "Expand Background"
+msgstr "Kembangkan Latar"
+
+#: custom_function.php:2033
+msgid "Make section \"out of the box\"."
+msgstr ""
+
+#: widgets.php:5
+msgid "Display most recent Posts in Carousel."
+msgstr ""
+
+#: widgets.php:28
+msgid "Recent Posts"
+msgstr ""
+
+#: widgets.php:147
+msgid "Title:"
+msgstr "Judul:"
+
+#: widgets.php:149
+msgid "Number of posts to show:"
+msgstr ""
+
+#: widgets.php:151
+msgid "Number of posts per slide:"
+msgstr ""
+
+#: widgets.php:154
+#, fuzzy
+msgid "Display post date ?"
+msgstr "Tanggal Berakhir"
+
+#: widgets.php:156
+msgid "Display thumbnail ?"
+msgstr ""
+
+#: widgets.php:158
+msgid "Display Author Name ?"
+msgstr ""
+
+#: widgets.php:159
+#, fuzzy
+msgid "Categories"
+msgstr "Kategori"
+
+#: widgets.php:183
+msgid "Display popular posts, recent posts, and recent comments in Tabulation."
+msgstr ""
+
+#: widgets.php:184
+msgid "DT Tabs"
+msgstr ""
+
+#: widgets.php:212
+msgid "Popular"
+msgstr "Populer"
+
+#: widgets.php:213
+msgid "Recent"
+msgstr "Terkini"
+
+#: widgets.php:214
+msgid "Comments"
+msgstr "Komentar"
+
+#: widgets.php:396
+msgid "Number of posts/comments to show:"
+msgstr ""
+
+#: widgets.php:405
+msgid "Display post image"
+msgstr ""
+
+#: widgets.php:406
+msgid "DT Post Image"
+msgstr ""
+
+#: widgets.php:504
+msgid "All category or just in categories"
+msgstr ""
+
+#: widgets.php:527
+msgid "Display portfolio image"
+msgstr ""
+
+#: widgets.php:528
+#, fuzzy
+msgid "DT Portfolio Image"
+msgstr "Kategori Portofolio"
+
+#: widgets.php:658
+msgid "Display shortcode gallery in widget."
+msgstr ""
+
+#: widgets.php:660
+msgid "DT Image Gallery"
+msgstr ""
+
+#: widgets.php:703
+msgid "Display most recent portfolio."
+msgstr ""
+
+#: widgets.php:704
+msgid "DT Recent Portfolio"
+msgstr ""
+
+#: widgets.php:808
+msgid "Number of portfolio to show:"
+msgstr ""
+
+#: widgets.php:1187
+#, fuzzy
+msgid "Display comment content?"
+msgstr "Isi"
+
+#: widgets.php:1184
+msgid "Number of comments to show:"
+msgstr ""
+
+#: widgets.php:1194
+msgid "Display most recent tweets from twitter in slider."
+msgstr ""
+
+#: widgets.php:1195
+msgid "DT Twitter Slider"
+msgstr ""
+
+#: widgets.php:1630
+#, fuzzy
+msgid "Twitter Account:"
+msgstr "Akun Twitter"
+
+#: widgets.php:1637
+msgid "Number of tweets to show:"
+msgstr ""
+
+#: widgets.php:1644
+#, fuzzy
+msgid "Date Format:"
+msgstr "Format Tanggal"
+
+#: widgets.php:1646
+msgid ""
+"%d : day, %m: month in number, %b: textual month abbreviation, %B: textual month, %y: 2 digit year, %Y: 4 "
+"digit year"
+msgstr ""
+
+#: widgets.php:1652
+#, fuzzy
+msgid "Template :"
+msgstr "Template Halaman"
+
+#: widgets.php:1657
+msgid "{{date}}: Post Date, {{tweet}}: tweet text"
+msgstr ""
+
+#: widgets.php:1660
+#, fuzzy
+msgid "Auto Play:"
+msgstr "Mulai Otomatis"
+
+#: widgets.php:1672
+#, fuzzy
+msgid "Transition Threshold (msec):"
+msgstr "Lama Pergantian (msec)"
+
+#: widgets.php:1325
+msgid "Display information in accordion style."
+msgstr ""
+
+#: widgets.php:1326
+msgid "DT Accordion"
+msgstr ""
+
+#: widgets.php:1348
+msgid "Accordion Title 1:"
+msgstr ""
+
+#: widgets.php:1350
+msgid "Accordion Description 1:"
+msgstr ""
+
+#: widgets.php:1348
+msgid "Accordion Title 2:"
+msgstr ""
+
+#: widgets.php:1350
+#, fuzzy
+msgid "Accordion Description 2:"
+msgstr "Tipe 2"
+
+#: widgets.php:1348
+#, fuzzy
+msgid "Accordion Title 3:"
+msgstr "Judul:"
+
+#: widgets.php:1350
+msgid "Accordion Description 3:"
+msgstr ""
+
+#: widgets.php:1348
+msgid "Accordion Title 4:"
+msgstr ""
+
+#: widgets.php:1350
+msgid "Accordion Description 4:"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Select the button's style, ie the button's colour"
+msgstr "Pilih model tombol, seperti warna tombol"
+
+#: lib/shortcode.php
+#, fuzzy
+msgid "Button size."
+msgstr "Ukuran Tombol"
+
+#: lib/shortcode.php
+#, fuzzy
+msgid "Button URL"
+msgstr "Tautan Tombol"
+
+#: lib/shortcode.php
+msgid "Button skin"
+msgstr "Corak tombol"
+
+#: lib/shortcode.php
+msgid "Dark (default)"
+msgstr "Gelap (standar)"
+
+#: lib/shortcode.php
+#, fuzzy
+msgid "Light"
+msgstr "Terang"
+
+#: lib/shortcode.php
+msgid "Select the button's skin"
+msgstr "Pilih corak tombol"
+
+#: lib/shortcode.php
+#, fuzzy
+msgid "The value must be numeric"
+msgstr "Isian harus berupa angka"
+
+#: lib/shortcode.php
+#, fuzzy
+msgid "Number"
+msgstr "Nilai"
+
+#: lib/shortcode.php
+#, fuzzy
+msgid "Add the button's url eg http://example.com"
+msgstr "Tambah tautan tombo; misal: http://example.com"
+
+#: lib/shortcode.php
+msgid "Button Target"
+msgstr "Halaman Target"
+
+#: lib/shortcode.php
+msgid "Select the button's target"
+msgstr "Pilih halaman target link"
+
+#: lib/shortcode.php
+msgid "Button Text"
+msgstr "Teks Tombol"
+
+#: lib/shortcode.php
+#, fuzzy
+msgid "Select the button's text"
+msgstr "PilihTeks Tombol"
+
+#: lib/shortcode.php
+msgid "Self"
+msgstr ""
+
+#: lib/shortcode.php
+#, fuzzy
+msgid "Blank"
+msgstr "Template Kosongan Page Builder"
+
+#: lib/shortcode.php
+msgid "Icon Size"
+msgstr "Ukuran Ikon"
+
+#: lib/shortcode.php
+msgid "Icon Color"
+msgstr ""
+
+#: lib/shortcode.php
+#, fuzzy
+msgid "Icon Style"
+msgstr "Model Kotak Ikon"
+
+#: lib/shortcode.php
+msgid "Select the button's color"
+msgstr "Pilih warna tombol"
+
+#: lib/shortcode.php
+msgid "Circle"
+msgstr "Bundar"
+
+#: lib/shortcode.php
+msgid "Ghost"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Select the button's style"
+msgstr "Pilih model tombol"
+
+#: lib/shortcode.php
+msgid "by %s"
+msgstr "Oleh %s"
+
+#: lib/custom_function.php:1363
+msgid "You are here"
+msgstr "Kamu disini"
+
+#: lib/custom_function.php:1333
+msgid "Home"
+msgstr "Beranda"
+
+#: pagetemplates/social-share.php
+msgid "Share"
+msgstr "Bagikan"
+
+#: lib/custom_functions.php
+msgid "Extended options"
+msgstr "Pilihan Tambahan"
+
+#: lib/custom_functions.php
+msgid "Visit %s&#8217;s website"
+msgstr ""
+
+#: lib/custom_functions.php
+msgid "Background Image"
+msgstr "Gambar Latar"
+
+#: lib/custom_functions.php
+msgid "Set background image"
+msgstr "Pilihlah gambar latar"
+
+#: lib/custom_functions.php
+msgid "Remove background image"
+msgstr "Hapus gambar latar"
+
+#: lib/custom_functions.php
+msgid "Background Style"
+msgstr "Model Gambar Latar"
+
+#: lib/custom_functions.php
+msgid "Parallax"
+msgstr ""
+
+#: lib/custom_functions.php
+msgid "Cover All"
+msgstr ""
+
+#: lib/custom_functions.php
+#, fuzzy
+msgid "Parallax All"
+msgstr "Semua Proyek"
+
+#: lib/custom_functions.php
+#, fuzzy
+msgid "Fixed"
+msgstr "tanggal tetap"
+
+msgid "Blank - Page Builder"
+msgstr "Template Kosongan Page Builder"
+
+msgid "Blank - Default"
+msgstr "Template Kosongan"
+
+msgid "Woocommerce Page"
+msgstr "Halaman woocommerce"
+
+msgid "Fullwidth"
+msgstr "Penuh layar"
+
+msgid "Post SEO"
+msgstr "Setingan SEO"
+
+msgid "Page SEO"
+msgstr "SEO Halaman"
+
+msgid "Product SEO"
+msgstr ""
+
+msgid "Portfolio SEO"
+msgstr "SEO  Portofolio"
+
+msgid "Meta Author"
+msgstr "Meta Penulis"
+
+msgid "Type your meta author."
+msgstr ""
+
+msgid "Meta Keyword"
+msgstr "Meta Kata Kunci"
+
+msgid ""
+"Type your meta keyword separed by comma. Googlebot loves it if it's not exceeding 160 characters or 20 words."
+msgstr "Ketik kata kunci dipisahkan dengan koma. Pranala google menyukai yang tidak lebih 160 huruf atau 20 kata"
+
+msgid "Meta Description"
+msgstr "Meta Diskripsi"
+
+msgid "Type your meta description. Googlebot loves it if it's not exceeding 160 characters or 20 words."
+msgstr "Ketik meta diskripsi. Pranala google menyukai yang tidak lebih 160 huruf atau 20 kata"
+
+msgid "Paste your html code here. It will be added before the closing </body> tag."
+msgstr ""
+
+msgid "Custom Code"
+msgstr ""
+
+msgid "The Awesome Wordpress Theme by djavaweb"
+msgstr "Template ciamik untuk Wordpress oleh Djavaweb"
+
+msgid "Your website using %s template"
+msgstr "Situs kamu menggunakan template %s"
+
+msgid "Register Template"
+msgstr "Daftarkan Template"
+
+msgid "%d day"
+msgstr "%d hari"
+
+msgid "%d days"
+msgstr "%d hari"
+
+#, fuzzy
+msgid "expired"
+msgstr "Lisensi template %s akan berakhir %s lagi."
+
+msgid "%s template license will expired in %s."
+msgstr "Lisensi template %s akan berakhir %s lagi."
+
+msgid "You can extend license"
+msgstr "Kamu dapat memperpanjang"
+
+msgid "Extend License"
+msgstr "Perpanjang Lisensi"
+
+msgid "%s template license was expired."
+msgstr "Lisensi template %s sudah berakhir. "
+
+msgid "Renew License"
+msgstr "Perbaharui Lisensi"
+
+msgid "License key using by system to update support"
+msgstr "Kode lisensi digunakan oleh sistem untuk mendukung pembaharuan"
+
+msgid "or"
+msgstr "atau"
+
+msgid "Zeyn template not support higher version"
+msgstr ""
+
+msgid "This theme requires the following plugins: %1$s."
+msgstr "Tema ini membutuhkan plugin -  plugin: %1$s."
+
+msgid "This theme requires the following plugin: %1$s."
+msgstr "Tema ini membutuhkan plugin: %1$s."
+
+msgid "Begin installing plugin"
+msgstr "Mulai menginstalasi plugin"
+
+msgid "Begin installing plugins"
+msgstr "Mulai menginstalasi plugin"
+
+msgid "Install Required Plugins"
+msgstr "Pemasangan plugin - plugin prasarat"
+
+msgid "Install Plugins"
+msgstr "Memasang plugin"
+
+msgid "Installing Plugin: %s"
+msgstr "Memasang plugin: %s"
+
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+msgid "Plugin activated successfully."
+msgstr ""
+
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+msgid "Activate installed plugin"
+msgstr "Aktifkan plugin terpasang"
+
+msgid "Activate installed plugins"
+msgstr "Aktifkan plugin terpasang"
+
+#, fuzzy
+msgid "This theme recommends the following plugin: %1$s."
+msgstr "Tema ini membutuhkan plugin: %1$s."
+
+#, fuzzy
+msgid "This theme recommends the following plugins: %1$s."
+msgstr "Tema ini membutuhkan plugin -  plugin: %1$s."
+
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this "
+"site for help on getting the plugin installed."
+msgstr ""
+
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of "
+"this site for help on getting the plugins installed."
+msgstr ""
+
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+msgid "The following required plugins are currently inactive: %1$s."
+msgstr ""
+
+msgid "The following recommended plugins are currently inactive: %1$s."
+msgstr ""
+
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of "
+"this site for help on getting the plugin activated."
+msgstr ""
+
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of "
+"this site for help on getting the plugins activated."
+msgstr ""
+
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure maximum compatibility with this "
+"theme: %1$s."
+msgstr ""
+
+msgid ""
+"The following plugins need to be updated to their latest version to ensure maximum compatibility with this "
+"theme: %1$s."
+msgstr ""
+
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this "
+"site for help on getting the plugin updated."
+msgstr ""
+
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this "
+"site for help on getting the plugins updated."
+msgstr ""
+
+msgid "Image Hover Option"
+msgstr "Piliham Hover Gambar"
+
+msgid "Image"
+msgstr "Gambar"
+
+#, fuzzy
+msgid "Video"
+msgstr "Di atas dalam video"
+
+msgid "Text"
+msgstr "Tulisan"
+
+msgid "None"
+msgstr "Tidak ada"
+
+#, fuzzy
+msgid "Animation Style"
+msgstr "Jeda Animasi"
+
+#, fuzzy
+msgid "From Left"
+msgstr "Kiri"
+
+#, fuzzy
+msgid "From Right"
+msgstr "Dari Kanan"
+
+#, fuzzy
+msgid "From Top"
+msgstr "Dari:"
+
+#, fuzzy
+msgid "From Bottom"
+msgstr "Kiri"
+
+msgid "Diamond"
+msgstr "Belah ketupat"
+
+msgid "%d item"
+msgstr "%d barang"
+
+msgid "%d items"
+msgstr "%d barang"
+
+msgid "If you wish to add anchor id to this row. Anchor id may used as link like href=\"#yourid\""
+msgstr ""
+"Jika kamu menginginkan ID di baris ini. ID jangkar bisa digunakan sebagai referensi link seperti href=\"#id\""
+
+msgid "Extra id"
+msgstr "ID tambahan"
+
+#, fuzzy
+msgid "Pre Title"
+msgstr "Sebelum Judul"
+
+msgid "To search type and hit enter"
+msgstr "Ketik dan tekan enter untuk pencarian"
+
+msgid "Background Type"
+msgstr "Model Latar"
+
+msgid "Background Video (mp4)"
+msgstr "Video Latar (mp4)"
+
+msgid "Video Source"
+msgstr ""
+
+msgid "Local Server"
+msgstr ""
+
+#, fuzzy
+msgid "Video link"
+msgstr "Video Latar (mp4)"
+
+msgid "Add YouTube/Vimeo link"
+msgstr ""
+
+msgid "Background Video (webm)"
+msgstr "Video Latar (webm)"
+
+msgid "Loading..."
+msgstr "Memuat..."
+
+msgid "Read more"
+msgstr "Baca Selengkapnya"

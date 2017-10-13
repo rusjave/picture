@@ -1,0 +1,1075 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zeyn 1.0\n"
+"Report-Msgid-Bugs-To: support@detheme.com\n"
+"POT-Creation-Date: 2014-02-27 05:25:07+00:00\n"
+"PO-Revision-Date: 2015-09-29 09:43+0700\n"
+"Last-Translator: Atawai <celomitan@yahoo.com>\n"
+"Language-Team: salima.badi@laposte.net\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;"
+"_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;esc_html_x:1,2c;comments_number_link:2,3;"
+"t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Loco-Target-Locale: fr_FR\n"
+
+#: 404.php:15
+msgid "404"
+msgstr ""
+
+#: 404.php:16
+msgid "Error 404"
+msgstr "Erreur 404"
+
+#: 404.php:19
+msgid "Go back to Our Homepage"
+msgstr "Retour en page d'accueil"
+
+#: 404.php:19
+msgid "Page not found"
+msgstr "Page non trouvée"
+
+#: archive-port.php:88
+msgid "Load More"
+msgstr "Afficher plus"
+
+#: category.php:63
+msgid "Category Archives: %s"
+msgstr "Archives de la Catégorie: %s"
+
+#: comments.php:34
+msgid "Comments are closed."
+msgstr "Les commentaires sont clos"
+
+msgid "% Comments"
+msgstr "% Commentaires"
+
+msgid "No Comments"
+msgstr "Pas de commentaires"
+
+msgid "1 Comment"
+msgstr "1 Commentaire"
+
+#: content-audio.php:111
+msgid "About %s"
+msgstr "À propos %s"
+
+#: content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: content-none.php:26
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: content-portfolio-text.php:61
+msgid "Detail to %s"
+msgstr "Plus de détails %s"
+
+#: functions.php:100
+#, fuzzy
+msgid "Top Navigation"
+msgstr "Navigation Haut de Page"
+
+#: functions.php:112
+#, fuzzy
+msgid "Sidebar Widget Area"
+msgstr "Aire des Widgets de la Sidebar"
+
+#: functions.php:119
+msgid "Bottom Widget Area"
+msgstr ""
+
+#: port.php:95
+msgid "Project Description"
+msgstr "Description"
+
+#: port.php:103
+msgid "Project Detail"
+msgstr "Détails"
+
+#: port.php:128
+msgid "launch project"
+msgstr "Ga naar project"
+
+#: port.php:157
+msgid "Related Project"
+msgstr "Projets similaires"
+
+#: port.php:157
+msgid "Tags"
+msgstr ""
+
+#: search.php:66
+#, fuzzy
+msgid "Search Results for: %s"
+msgstr "Résultat de la recherche pour: %s"
+
+#: search.php:97
+#, fuzzy
+msgid "Previous"
+msgstr "Précédent"
+
+#: search.php:102
+#, fuzzy
+msgid "Next"
+msgstr "Suivant"
+
+#: sendmail.php:38
+msgid "Name : "
+msgstr "Nom :"
+
+#: sendmail.php:40
+#, fuzzy
+msgid "Email : "
+msgstr "Votre email ne sera pas publié."
+
+#: sendmail.php:42
+msgid "Phone : "
+msgstr "Téléphone"
+
+#: sendmail.php:44
+#, fuzzy
+msgid "Message : "
+msgstr "Votre message"
+
+#: sendmail.php:52
+msgid "Contact from "
+msgstr ""
+
+#: sendmail.php:65
+msgid "Captcha value is wrong."
+msgstr ""
+
+#: pagetemplates/portfolio-typr-image.php:59
+msgid "Toggle navigation"
+msgstr ""
+
+#: pagetemplates/portfolio-typr-image.php:65
+msgid "All Projects"
+msgstr "Tout"
+
+#: pagetemplates/topbar-leftmenu.php:59
+msgid "Menu"
+msgstr ""
+
+#: custom_function.php:156
+#, fuzzy
+msgid "Page Attributes"
+msgstr "Attributs de la Page"
+
+#: custom_function.php:175
+#, fuzzy
+msgid "(no parent)"
+msgstr "(Pas de Parent)"
+
+#: custom_function.php:183
+#, fuzzy
+msgid "Left"
+msgstr "Gauche"
+
+#: custom_function.php:183
+msgid "Center"
+msgstr ""
+
+#: custom_function.php:183
+#, fuzzy
+msgid "Right"
+msgstr "Droite"
+
+#: custom_function.php:183
+#, fuzzy
+msgid "No Sidebar"
+msgstr "Pas de SideBar"
+
+#: custom_function.php:232
+#, fuzzy
+msgid "Parent"
+msgstr "Parent"
+
+#: custom_function.php:175
+msgid "Hide title"
+msgstr ""
+
+#: custom_function.php:175
+msgid "Disable Lightbox 1st Visit"
+msgstr ""
+
+#: custom_function.php:175
+msgid "Page Loader"
+msgstr ""
+
+#: custom_function.php:175
+msgid "Disable Page Loader"
+msgstr ""
+
+#: custom_function.php:175
+msgid "Disable Exit Popup"
+msgstr ""
+
+#: custom_function.php:79
+#, fuzzy
+msgid "Select Layout Type"
+msgstr "Sélectionner le type de mise en page"
+
+#: custom_function.php:81
+#, fuzzy
+msgid "Default"
+msgstr "Défaut"
+
+#: custom_function.php:82
+#, fuzzy
+msgid "Carousel"
+msgstr "Carrousel"
+
+#: custom_function.php:230
+#, fuzzy
+msgid "Page Subtitle"
+msgstr "Sous-Titre de la Page"
+
+#: custom_function.php:241
+#, fuzzy
+msgid "Template"
+msgstr "Modèle"
+
+#: custom_function.php:242
+#, fuzzy
+msgid "Page Template"
+msgstr "Modèle de la Page"
+
+#: custom_function.php:243
+#, fuzzy
+msgid "Default Template"
+msgstr "Modèle par défaut"
+
+#: custom_function.php:250
+msgid "Squared Image (boxed)"
+msgstr ""
+
+#: custom_function.php:251
+msgid "Image and Text (boxed)"
+msgstr ""
+
+#: custom_function.php:251
+msgid "Squared Image(full)"
+msgstr ""
+
+#: custom_function.php:251
+msgid "Fix Height Image(full)"
+msgstr ""
+
+#: custom_function.php:256
+#, fuzzy
+msgid "Select Column"
+msgstr "Sélectionner la Colonne"
+
+#: custom_function.php:260
+msgid "%d Column"
+msgid_plural "%d Columns"
+msgstr[0] ""
+msgstr[1] ""
+
+#: custom_function.php:278
+#, fuzzy
+msgid "Sidebar Position"
+msgstr "Position de la Sidebar"
+
+#: custom_function.php:292
+#, fuzzy
+msgid "Order"
+msgstr "Ordre"
+
+#: custom_function.php:480
+#, fuzzy
+msgid "Back"
+msgstr "Retour en page d'accueil"
+
+#: custom_function.php:560
+msgid "Search"
+msgstr ""
+
+#: custom_function.php:572
+msgid "Close"
+msgstr ""
+
+#: custom_function.php:294
+#, fuzzy
+msgid "Need help? Use the Help tab in the upper right of your screen."
+msgstr "Besoin d'aide? Utilisez l'onglet Aide en haut à droite de votre écran."
+
+#: custom_function.php:621
+msgid "Submit"
+msgstr "ENVOYER"
+
+#: custom_function.php:621
+#, fuzzy
+msgid "Cancel reply"
+msgstr "Annuler la réponse"
+
+#: custom_function.php:619
+msgid "Leave a Comment to %s"
+msgstr "Laisser un commentaire %s"
+
+#: custom_function.php:618
+msgid "Leave a Comment"
+msgstr "Laisser un commentaire"
+
+#: custom_function.php:614
+msgid "Your email address will not be published."
+msgstr "Votre email ne sera pas publié."
+
+# msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+# msgstr ""
+# msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+# msgstr ""
+#: custom_function.php:613 custom_function.php:612 custom_function.php:608
+msgid "your message"
+msgstr "Votre message"
+
+#: custom_function.php:603
+msgid "Required fields are marked %s"
+msgstr "Les champs requis sont marqués d'un %s"
+
+#: custom_function.php:592
+#, fuzzy
+msgid "full name"
+msgstr "Nom Complet "
+
+#: custom_function.php:595
+#, fuzzy
+msgid "email address"
+msgstr "Adresse de Courriel"
+
+msgid "website"
+msgstr ""
+
+#: custom_function.php:689
+#, fuzzy
+msgid "Reply"
+msgstr "Répondre"
+
+#: custom_function.php:690
+#, fuzzy
+msgid "Log in to Reply"
+msgstr "Connectez-vous pour Répondre"
+
+#: custom_function.php:755
+#, fuzzy
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: custom_function.php:755
+#, fuzzy
+msgid "Edit"
+msgstr "Édition"
+
+#: custom_function.php:1071
+#, fuzzy
+msgid "%d View"
+msgstr "%d vues"
+
+#: custom_function.php:1071
+#, fuzzy
+msgid "% Views"
+msgstr "% Vues"
+
+#: custom_function.php:1116
+#, fuzzy
+msgid "Views"
+msgstr "Vues"
+
+#: custom_function.php:2004
+msgid "Button style"
+msgstr ""
+
+#: custom_function.php:2010
+msgid "Primary"
+msgstr ""
+
+#: custom_function.php:2011
+msgid "Secondary"
+msgstr ""
+
+#: custom_function.php:2012
+msgid "Success"
+msgstr ""
+
+#: custom_function.php:2013
+msgid "Info"
+msgstr ""
+
+#: custom_function.php:2014
+msgid "Warning"
+msgstr ""
+
+#: custom_function.php:2015
+msgid "Danger"
+msgstr ""
+
+#: custom_function.php:2016
+msgid "Ghost Button"
+msgstr ""
+
+#: custom_function.php:2017
+msgid "Link"
+msgstr ""
+
+#: custom_function.php:2026
+msgid "Size"
+msgstr ""
+
+#: custom_function.php:2026
+msgid "Large"
+msgstr ""
+
+#: custom_function.php:2026
+msgid "Small"
+msgstr ""
+
+#: shortcode.php:273
+msgid "Medium"
+msgstr ""
+
+#: custom_function.php:2026
+msgid "Extra small"
+msgstr ""
+
+#: custom_function.php:2029
+msgid "Expand section width"
+msgstr ""
+
+#: custom_function.php:2032
+#, fuzzy
+msgid "Expand Column"
+msgstr "Sélectionner la Colonne"
+
+#: custom_function.php:2032
+msgid "Expand Background"
+msgstr ""
+
+#: custom_function.php:2033
+msgid "Make section \"out of the box\"."
+msgstr ""
+
+#: widgets.php:5
+msgid "Display most recent Posts in Carousel."
+msgstr ""
+
+#: widgets.php:28
+msgid "Recent Posts"
+msgstr ""
+
+#: widgets.php:147
+msgid "Title:"
+msgstr ""
+
+#: widgets.php:149
+msgid "Number of posts to show:"
+msgstr ""
+
+#: widgets.php:151
+msgid "Number of posts per slide:"
+msgstr ""
+
+#: widgets.php:154
+msgid "Display post date ?"
+msgstr ""
+
+#: widgets.php:156
+msgid "Display thumbnail ?"
+msgstr ""
+
+#: widgets.php:158
+msgid "Display Author Name ?"
+msgstr ""
+
+#: widgets.php:159
+msgid "Categories"
+msgstr ""
+
+#: widgets.php:183
+msgid "Display popular posts, recent posts, and recent comments in Tabulation."
+msgstr ""
+
+#: widgets.php:184
+msgid "DT Tabs"
+msgstr ""
+
+#: widgets.php:212
+msgid "Popular"
+msgstr ""
+
+#: widgets.php:213
+msgid "Recent"
+msgstr ""
+
+#: widgets.php:214
+#, fuzzy
+msgid "Comments"
+msgstr "% Commentaires"
+
+#: widgets.php:396
+msgid "Number of posts/comments to show:"
+msgstr ""
+
+#: widgets.php:405
+msgid "Display post image"
+msgstr ""
+
+#: widgets.php:406
+msgid "DT Post Image"
+msgstr ""
+
+#: widgets.php:504
+msgid "All category or just in categories"
+msgstr ""
+
+#: widgets.php:527
+msgid "Display portfolio image"
+msgstr ""
+
+#: widgets.php:528
+msgid "DT Portfolio Image"
+msgstr ""
+
+#: widgets.php:658
+msgid "Display shortcode gallery in widget."
+msgstr ""
+
+#: widgets.php:660
+msgid "DT Image Gallery"
+msgstr ""
+
+#: widgets.php:703
+msgid "Display most recent portfolio."
+msgstr ""
+
+#: widgets.php:704
+msgid "DT Recent Portfolio"
+msgstr ""
+
+#: widgets.php:808
+msgid "Number of portfolio to show:"
+msgstr ""
+
+#: widgets.php:1187
+msgid "Display comment content?"
+msgstr ""
+
+#: widgets.php:1184
+msgid "Number of comments to show:"
+msgstr ""
+
+#: widgets.php:1194
+msgid "Display most recent tweets from twitter in slider."
+msgstr ""
+
+#: widgets.php:1195
+msgid "DT Twitter Slider"
+msgstr ""
+
+#: widgets.php:1630
+msgid "Twitter Account:"
+msgstr ""
+
+#: widgets.php:1637
+msgid "Number of tweets to show:"
+msgstr ""
+
+#: widgets.php:1644
+msgid "Date Format:"
+msgstr ""
+
+#: widgets.php:1646
+msgid ""
+"%d : day, %m: month in number, %b: textual month abbreviation, %B: textual month, %y: 2 digit year, %Y: 4 "
+"digit year"
+msgstr ""
+
+#: widgets.php:1652
+#, fuzzy
+msgid "Template :"
+msgstr "Modèle"
+
+#: widgets.php:1657
+msgid "{{date}}: Post Date, {{tweet}}: tweet text"
+msgstr ""
+
+#: widgets.php:1660
+msgid "Auto Play:"
+msgstr ""
+
+#: widgets.php:1672
+msgid "Transition Threshold (msec):"
+msgstr ""
+
+#: widgets.php:1325
+msgid "Display information in accordion style."
+msgstr ""
+
+#: widgets.php:1326
+msgid "DT Accordion"
+msgstr ""
+
+#: widgets.php:1348
+msgid "Accordion Title 1:"
+msgstr ""
+
+#: widgets.php:1350
+#, fuzzy
+msgid "Accordion Description 1:"
+msgstr "Type 1"
+
+#: widgets.php:1348
+msgid "Accordion Title 2:"
+msgstr ""
+
+#: widgets.php:1350
+#, fuzzy
+msgid "Accordion Description 2:"
+msgstr "Description"
+
+#: widgets.php:1348
+msgid "Accordion Title 3:"
+msgstr ""
+
+#: widgets.php:1350
+msgid "Accordion Description 3:"
+msgstr ""
+
+#: widgets.php:1348
+msgid "Accordion Title 4:"
+msgstr ""
+
+#: widgets.php:1350
+msgid "Accordion Description 4:"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Select the button's style, ie the button's colour"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Button size."
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Button URL"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Button skin"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Dark (default)"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Light"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Select the button's skin"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "The value must be numeric"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Number"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Add the button's url eg http://example.com"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Button Target"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Select the button's target"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Button Text"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Select the button's text"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Self"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Blank"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Icon Size"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Icon Color"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Icon Style"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Select the button's color"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Circle"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Ghost"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Select the button's style"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "by %s"
+msgstr "par %s"
+
+#: lib/custom_function.php:1363
+msgid "You are here"
+msgstr ""
+
+#: lib/custom_function.php:1333
+msgid "Home"
+msgstr ""
+
+#: pagetemplates/social-share.php
+msgid "Share"
+msgstr "Partager"
+
+#: lib/custom_functions.php
+msgid "Extended options"
+msgstr ""
+
+#: lib/custom_functions.php
+msgid "Visit %s&#8217;s website"
+msgstr ""
+
+#: lib/custom_functions.php
+msgid "Background Image"
+msgstr ""
+
+#: lib/custom_functions.php
+msgid "Set background image"
+msgstr ""
+
+#: lib/custom_functions.php
+msgid "Remove background image"
+msgstr ""
+
+#: lib/custom_functions.php
+msgid "Background Style"
+msgstr ""
+
+#: lib/custom_functions.php
+msgid "Parallax"
+msgstr ""
+
+#: lib/custom_functions.php
+msgid "Cover All"
+msgstr ""
+
+#: lib/custom_functions.php
+#, fuzzy
+msgid "Parallax All"
+msgstr "Tout"
+
+#: lib/custom_functions.php
+msgid "Fixed"
+msgstr ""
+
+msgid "Blank - Page Builder"
+msgstr ""
+
+msgid "Blank - Default"
+msgstr ""
+
+msgid "Woocommerce Page"
+msgstr ""
+
+msgid "Fullwidth"
+msgstr ""
+
+msgid "Post SEO"
+msgstr ""
+
+msgid "Page SEO"
+msgstr ""
+
+msgid "Product SEO"
+msgstr ""
+
+msgid "Portfolio SEO"
+msgstr ""
+
+msgid "Meta Author"
+msgstr ""
+
+msgid "Type your meta author."
+msgstr ""
+
+msgid "Meta Keyword"
+msgstr ""
+
+msgid ""
+"Type your meta keyword separed by comma. Googlebot loves it if it's not exceeding 160 characters or 20 words."
+msgstr ""
+
+msgid "Meta Description"
+msgstr ""
+
+msgid "Type your meta description. Googlebot loves it if it's not exceeding 160 characters or 20 words."
+msgstr ""
+
+msgid "Paste your html code here. It will be added before the closing </body> tag."
+msgstr ""
+
+msgid "Custom Code"
+msgstr ""
+
+msgid "The Awesome Wordpress Theme by djavaweb"
+msgstr ""
+
+msgid "Your website using %s template"
+msgstr ""
+
+msgid "Register Template"
+msgstr ""
+
+msgid "%d day"
+msgstr ""
+
+#, fuzzy
+msgid "%d days"
+msgstr "%d vues"
+
+msgid "expired"
+msgstr ""
+
+msgid "%s template license will expired in %s."
+msgstr ""
+
+msgid "You can extend license"
+msgstr ""
+
+msgid "Extend License"
+msgstr ""
+
+msgid "%s template license was expired."
+msgstr ""
+
+msgid "Renew License"
+msgstr ""
+
+msgid "License key using by system to update support"
+msgstr ""
+
+msgid "or"
+msgstr ""
+
+msgid "Zeyn template not support higher version"
+msgstr ""
+
+msgid "This theme requires the following plugins: %1$s."
+msgstr ""
+
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+msgid "Begin installing plugin"
+msgstr ""
+
+msgid "Begin installing plugins"
+msgstr ""
+
+msgid "Install Required Plugins"
+msgstr ""
+
+msgid "Install Plugins"
+msgstr ""
+
+msgid "Installing Plugin: %s"
+msgstr ""
+
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+msgid "Plugin activated successfully."
+msgstr ""
+
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+msgid "Activate installed plugin"
+msgstr ""
+
+msgid "Activate installed plugins"
+msgstr ""
+
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+msgid "This theme recommends the following plugins: %1$s."
+msgstr ""
+
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this "
+"site for help on getting the plugin installed."
+msgstr ""
+
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of "
+"this site for help on getting the plugins installed."
+msgstr ""
+
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+msgid "The following required plugins are currently inactive: %1$s."
+msgstr ""
+
+msgid "The following recommended plugins are currently inactive: %1$s."
+msgstr ""
+
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of "
+"this site for help on getting the plugin activated."
+msgstr ""
+
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of "
+"this site for help on getting the plugins activated."
+msgstr ""
+
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure maximum compatibility with this "
+"theme: %1$s."
+msgstr ""
+
+msgid ""
+"The following plugins need to be updated to their latest version to ensure maximum compatibility with this "
+"theme: %1$s."
+msgstr ""
+
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this "
+"site for help on getting the plugin updated."
+msgstr ""
+
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this "
+"site for help on getting the plugins updated."
+msgstr ""
+
+msgid "Image Hover Option"
+msgstr ""
+
+msgid "Image"
+msgstr ""
+
+msgid "Video"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Animation Style"
+msgstr ""
+
+msgid "From Left"
+msgstr ""
+
+msgid "From Right"
+msgstr ""
+
+msgid "From Top"
+msgstr ""
+
+msgid "From Bottom"
+msgstr ""
+
+msgid "Diamond"
+msgstr ""
+
+#, fuzzy
+msgid "%d item"
+msgstr "%d vues"
+
+msgid "%d items"
+msgstr ""
+
+msgid "If you wish to add anchor id to this row. Anchor id may used as link like href=\"#yourid\""
+msgstr ""
+
+msgid "Extra id"
+msgstr ""
+
+msgid "Pre Title"
+msgstr ""
+
+#, fuzzy
+msgid "To search type and hit enter"
+msgstr "Rechercher\n"
+
+msgid "Background Type"
+msgstr ""
+
+msgid "Background Video (mp4)"
+msgstr ""
+
+msgid "Video Source"
+msgstr ""
+
+msgid "Local Server"
+msgstr ""
+
+msgid "Video link"
+msgstr ""
+
+msgid "Add YouTube/Vimeo link"
+msgstr ""
+
+msgid "Background Video (webm)"
+msgstr ""
+
+msgid "Loading..."
+msgstr ""
+
+msgid "Read more"
+msgstr "Lire la suite"

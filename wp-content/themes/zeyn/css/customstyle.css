@@ -1,0 +1,75 @@
+/* ================================================ */
+/* don't touch this style auto generating by system */
+/* ================================================ */
+		.tertier_color_bg {background-color: #222222; }
+
+		#footer { background-image: url(""); }
+		#footer { background-repeat: no-repeat; }
+		#footer { background-size: cover; }
+
+		.footer-left { color: #ffffff; }
+		.footer-right { color: #ffffff; }
+		footer#footer a { color: #ffffff; }
+		#footer-right .widget .widget-title { color: #ffffff; }
+
+		#footer .container .widget_text .social-circled li,
+		#footer .container .widget_text .social-circled li:last-child,
+		#footer .woocommerce ul.cart_list li,
+		#footer .woocommerce ul.product_list_widget li,
+		#footer .woocommerce-page ul.cart_list li,
+		#footer .woocommerce-page ul.product_list_widget li,
+		#footer .woocommerce.widget_product_categories li,
+		footer#footer .widget_tag_cloud .tagcloud .tag,
+		footer#footer .dt_widget_tabs .nav-tabs li a,
+		footer#footer .dt_widget_tabs .tab-pane .rowlist,
+		footer#footer .dt_widget_accordion .panel-heading,
+		footer#footer .dt_widget_accordion .panel-body,
+		#footer .widget_categories ul li,
+		#footer .widget_recent_entries ul li,
+		#footer .widget_recent_comments ul li,
+		#footer .widget_rss ul li,
+		#footer .widget_meta ul li,
+		#footer .widget_nav_menu ul li,
+		#footer .widget_archive ul li,
+		#footer .widget_text ul li,
+		footer#footer .woocommerce.widget_product_tag_cloud .tagcloud .tag {
+		  border-color: rgba(255,255,255, 0.05);
+		}
+
+		footer#footer .widget_text ul.list-inline-icon li {
+		  border: 1px solid rgba(255,255,255, 0.05);
+		}
+
+		footer#footer .widget_search {
+		  color: #ffffff;
+		}
+
+		footer#footer .widget_search #s {
+		  border: 1px solid rgba(255,255,255, 0.4);
+		  color: #ffffff;
+		}
+
+		footer#footer .select-target.select-theme-default {
+	  		border: 1px solid rgba(255,255,255, 0.4);
+		}
+
+		footer#footer .dt_widget_accordion .panel-heading {
+		  color: #ffffff;
+		}
+		
+		footer#footer .widget_recent_comments a {
+		  color: rgba(255,255,255, 0.4);
+		}
+
+		footer#footer .woocommerce.widget_product_search #s {
+		  border: 1px solid rgba(255,255,255, 0.4);
+		}
+
+	.home #head-page.alt.reveal #mobile-header label.toggle, .home #head-page.alt.reveal #mobile-header label.toggle:hover { color:#222222;}.home #head-page.reveal #mobile-header label.toggle, .home #head-page.reveal #mobile-header label.toggle:hover { color:#222222;}.home #head-page.alt.reveal #mobile-header label.toggle, .home #head-page.alt.reveal #mobile-header label.toggle:hover { color:#222222;}.home #head-page.reveal #mobile-header label.toggle, .home #head-page.reveal #mobile-header label.toggle:hover { color:#222222;}#head-page.reveal #dt-menu > ul > li > a span:after, #head-page.reveal #dt-menu > ul > li > a span:before { background: none repeat scroll 0 0 #222222; }#head-page.alt #dt-menu > ul > li > a span:after, #head-page.alt #dt-menu > ul > li > a span:before { background: none repeat scroll 0 0 #222222; }.home #head-page.reveal #dt-menu > ul > li > a span:after, .home #head-page.reveal #dt-menu > ul > li > a span:before { background: none repeat scroll 0 0 #222222; }.home #head-page.alt #dt-menu > ul > li > a span:after, .home #head-page.alt #dt-menu > ul > li > a span:before { background: none repeat scroll 0 0 #222222; }body.dt_custom_body { background-image: url(); }body.dt_custom_body { background-attachment: fixed; }body.dt_custom_body { background-repeat: no-repeat; }body.dt_custom_body { background-size: cover; }body.dt_custom_body { background-color: #ffffff; }body.dt_custom_body { color: #222222; }		@media(min-width: 992px) {
+			#dt-menu > ul > li { line-height: 5em;}
+		}
+			#dt-menu.dt-menu-center > ul { margin-top: 100px; }
+		.reveal.alt #dt-menu.dt-menu-center > ul { margin-top: 100px; }
+	
+	/* custom css generate from your custom css code*/
+	                body{height: 100%;}            
