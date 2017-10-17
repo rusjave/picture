@@ -186,6 +186,10 @@
     -webkit-animation-name: fadeInLeft;
     animation-name: fadeInLeft;
 }
+.fadeIn {
+    -webkit-animation-name: fadeIn;
+    animation-name: fadeIn;
+}
 
 100% {
     opacity: 1;
@@ -222,6 +226,7 @@
     font-size: 26px;
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     text-transform: uppercase;
+    color: #2b2b2c;
 }
 
 .color, .drop-cap {
@@ -343,6 +348,232 @@ img {
     padding-bottom: 15px;
 }
 
+.home .try-it-for-yourself {
+    background-color: #eaecf6;
+}
+
+.home .try-it-for-yourself .container{
+    position: relative;
+    z-index: 1001;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    width: 1170px !important;
+}
+
+.home .try-it-for-yourself .section-title {
+    margin-bottom: 70px;
+    text-align: center;
+}
+
+.home .try-it-for-yourself .p25 {
+    padding: 25px;
+}
+
+.home .try-it-for-yourself .feature-description p {
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.home .try-it-for-yourself .form-control, label {
+    font-weight: 400;
+    color: #575757;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.home .try-it-for-yourself .form-control {
+    height: 34px;
+    border: 1px solid #d8dcee;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    box-shadow: none;
+    -webkit-transition: border .25s linear,color .25s linear,background-color .25s linear;
+    -moz-transition: border .25s linear,color .25s linear,background-color .25s linear;
+    -o-transition: border .25s linear,color .25s linear,background-color .25s linear;
+    transition: border .25s linear,color .25s linear,background-color .25s linear;
+    font-size: 13px;
+}
+
+.home .try-it-for-yourself .btn-danger, .btn-danger:focus, .btn-danger:hover {
+    background-color: #ff6414 !important;
+    border-color: #D75B1C;
+}
+
+.home .try-it-for-yourself .btn-danger {
+    color: #fff;
+}
+
+.home .try-it-for-yourself .btn-danger {
+    transition: .25s linear;
+    padding: 11px 12px;
+    font-size: 14px;
+    line-height: 1;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 900;
+    font-weight: 900;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px
+}
+
+
+.home .banner {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    position: relative;
+}
+
+.home .we-integrate-with .parallax-0 {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.home .we-integrate-with .parallax-cover {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+
+.home .we-integrate-with  .overlay-lighten-8 {
+    background-color: rgba(255,255,255,.8);
+    position: absolute;
+    z-index: 1000;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    -webkit-backface-visibility: hidden;
+}
+
+
+.home .we-integrate-with.banner{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    position: relative;
+    z-index: 1001;
+}
+.home .we-integrate-with.banner .container{
+    position: relative;
+    z-index: 1001;
+    padding-top: 50px;
+    padding-bottom: 50px
+}
+
+.home .we-integrate-with .section-title {
+    margin-bottom: 70px;
+    text-align: center;
+}
+
+.home .we-integrate-with .inline {
+    display: inline-block;
+}
+
+.home .we-integrate-with .m15 {
+    margin: 15px;
+        margin-top: 15px;
+}
+
+.home .we-integrate-with .commerceImg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 65px;
+    width: auto;
+}
+
+.home .what-ecommerce-retailers-are-saying {
+    position: relative;
+}
+
+.home .what-ecommerce-retailers-are-saying .container{
+    position: relative;
+    z-index: 1001;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.home .what-ecommerce-retailers-are-saying .container .section-title {
+    margin-bottom: 70px;
+    text-align: center;
+}
+
+.home .what-ecommerce-retailers-are-saying .owl-carousel {
+    width: 100%;
+    position: relative !important;
+}
+
+.home .what-ecommerce-retailers-are-saying .owl-carousel .owl-wrapper-outer {
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+}
+
+.home .what-ecommerce-retailers-are-saying .reviews-carousel .owl-item {
+    padding: 0 15px;
+    margin-bottom: 15px;
+    display: block;
+}
+
+.home .what-ecommerce-retailers-are-saying .reviews-carousel blockquote {
+    font-size: 16px;
+    line-height: 24px;
+    float: none;
+}
+
+
+.home .what-ecommerce-retailers-are-saying .owl-carousel, .owl-carousel .owl-wrapper {
+    display: none;
+    position: relative;
+}
+
+
+.home .what-ecommerce-retailers-are-saying blockquote {
+    margin: 15px 0;
+    padding: 10px;
+    border: 0;
+    font-size: 14px;
+    display: block;
+}
+
+.home .what-ecommerce-retailers-are-saying .reviews-carousel .reviews-avatar {
+    float: left;
+    max-width: 100%;
+}
+
+.home .what-ecommerce-retailers-are-saying .home .what-ecommerce-retailers-are-saying .mr15 {
+    margin-right: 15px;
+}
+
+
+ .home .what-ecommerce-retailers-are-saying .reviews-meta {
+    overflow: hidden;
+}
+
+
+.home .what-ecommerce-retailers-are-saying embed, iframe, img, object, video {
+    border: 0;
+    max-width: 100%;
+}
+
+.reviews-carousel .reviews-name {
+
+    margin-top: 5px;
+    font-size: 16px;
+    margin-bottom: 0;
+
+}
+
+owl-carousel {
+    width: 100%;
+    
+}
+
 @media only screen and (max-width : 1200px) {
 
         .first-section .wpb_wrapper {
@@ -352,4 +583,5 @@ img {
         .home #how-it-works {
              width: 100% !important;
     }
+
 }
