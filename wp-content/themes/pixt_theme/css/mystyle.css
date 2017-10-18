@@ -6,7 +6,7 @@
   box-shadow: none !important;
 }
 
-#head-page.adminbar-not-here.reveal.notopbar.solid.alt {
+.home #head-page.adminbar-not-here.reveal.notopbar.solid.alt {
     background: transparent !important;
   margin: 60px 0 !important;
 /*    float: right; */
@@ -86,7 +86,7 @@
 
 .home .content {
   background: #292e33 url(http://pixt.dev/wp-content/uploads/2017/10/homepage-laptop.jpg?id=12) no-repeat;
-    background-size: cover;
+    background-size: 100%;
     width: 100%;
     height: 986px;
   padding: 100px 0 !important;
@@ -517,7 +517,7 @@ img {
 
 .home .what-ecommerce-retailers-are-saying .reviews-carousel .owl-item {
     padding: 0 15px;
-    margin-bottom: 15px;
+    margin-bottom: 100px;
     display: block;
     float: left;
 }
@@ -628,6 +628,160 @@ a:hover, a:focus {
     color: red !important;
 }
 
+/* FREETRIAL Page */
+
+.page-id-17 #home-page .adminbar-not-here.reveal.notopbar.solid.alt {
+    background: transparent !important;
+    margin: 0px 0 !important;
+    float: right;
+}
+
+.page-id-17 #head-page #dt-menu.dt-menu-right > ul {
+    text-align: right;
+}
+
+
+.page-id-17 #banner-section {
+    display: none;
+}
+
+.page-id-17  .see-what-pixc  {
+    padding-top: 70px;
+    padding-bottom: 80px;
+    background-color: rgba(46,53,61,.9);
+}
+.page-id-17 .see-what-pixc  h1  {
+    font-size: 36px;
+    margin-top: 52px;
+    margin-bottom: 100px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 500;
+}
+
+.page-id-17 .content .post-article {
+    padding: 70px 0 0;
+}
+
+ .page-id-17 .banner {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.page-id-17 .parallax, .parallax-0 {
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.page-id-17 .overlay-lighten-9 {
+    background-color: rgba(255,255,255,.9);
+    position: absolute;
+   /* z-index: 1000;*/
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    -webkit-backface-visibility: hidden
+}
+
+.content-section.banner .container, footer.content-section .container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.page-id-17  .content-1{
+        width: 1170px !important;
+    }
+
+
+.pb20 {
+    padding-bottom: 20px;
+}
+
+.pt20 {
+    padding-top: 20px !important;
+}
+
+.page-id-17  .heading-font {
+    line-height: 1.3em;
+    font-size: 24px;
+}
+
+.page-id-17 .heading-font {
+    color: #1a1a1a;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+
+.page-id-17 .p-work-frame {
+    background: #f1f1f1;
+    padding: 20px 20px 10px 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 13px;
+}
+
+.page-id-17 .p-work-frame  .form-control {
+    border: 1px solid #e3e6f3;
+    border-radius: 2px;
+    box-shadow: none;
+    -webkit-transition: border .25s linear,color .25s linear,background-color .25s linear;
+    transition: border .25s linear,color .25s linear,background-color .25s linear;
+    -webkit-appearance: none;
+    font-weight: 400;
+    font-size: 13px;
+    -webkit-font-smoothing: antialiased;
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    line-height: 1.42857143;
+    color: #555;
+}
+.page-id-17 .
+
+.page-id-17 .p-work-frame  label {
+    font-weight: 600;
+}
+
+.page-id-17 .your-email-section {
+    width: 1170px !important;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.page-id-17 .form-group .btn-primary {
+    color: #ffffff;
+    background-color: #1582dc !important;
+    border-color: #1582dc !important;
+    padding: 15px 16px;
+    border-radius: 4px;
+    font-size: 13px;
+    line-height: 14px;
+    padding-left: 50px;
+    padding-right: 50px;
+    box-shadow: none;
+    opacity: .65;
+}
+
+/* Footer section */
+
+.tertier_color_bg {
+    background-color: #eaecf6 !important;
+}
+
+
+.tertier_color_bg .footer-left {
+    color: #575757 !important;
+}
+
+.tertier_color_bg .footer-section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
 /*Media query*/
 @media only screen and (max-width : 1200px) {
 
@@ -643,4 +797,36 @@ a:hover, a:focus {
             width: 100% !important;
     }
 
+    .home .try-it-for-yourself .container {
+        position: relative;
+        z-index: 1001;
+        padding-top: 100px;
+        padding-bottom: 100px;
+        width: 100%!important;
+    }
+
+    #dt-menu {
+        max-width: 100%;
+        margin: 0 auto;
+    }
+
+    .page-id-17  .container{
+        width: 100% !important;
+    }
 }
+
+
+
+
+@media only screen and (min-width : 1200px) {
+    #dt-menu {
+        max-width: 100%;
+        margin: 0 auto;
+        padding: 0 5em;
+    }
+    .page-id-17  .container{
+       /* width: 100% !important;*/
+    }
+
+}
+
