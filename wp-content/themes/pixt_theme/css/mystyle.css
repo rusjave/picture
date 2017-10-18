@@ -496,6 +496,7 @@ img {
     z-index: 1001;
     padding-top: 100px;
     padding-bottom: 100px;
+    width: 1170px !important;
 }
 
 .home .what-ecommerce-retailers-are-saying .container .section-title {
@@ -636,6 +637,10 @@ a:hover, a:focus {
 
         .home #how-it-works {
              width: 100% !important;
+    }
+
+        .home .what-ecommerce-retailers-are-saying .container {
+            width: 100% !important;
     }
 
 }
