@@ -518,12 +518,15 @@ img {
     padding: 0 15px;
     margin-bottom: 15px;
     display: block;
+    float: left;
 }
 
 .home .what-ecommerce-retailers-are-saying .reviews-carousel blockquote {
     font-size: 16px;
     line-height: 24px;
     float: none;
+    color: #59595A;
+    font-weight: 400;
 }
 
 
@@ -544,6 +547,8 @@ img {
 .home .what-ecommerce-retailers-are-saying .reviews-carousel .reviews-avatar {
     float: left;
     max-width: 100%;
+    width: 48px;
+    margin-right: 15px
 }
 
 .home .what-ecommerce-retailers-are-saying .home .what-ecommerce-retailers-are-saying .mr15 {
@@ -561,7 +566,7 @@ img {
     max-width: 100%;
 }
 
-.reviews-carousel .reviews-name {
+.home .what-ecommerce-retailers-are-saying .reviews-carousel .reviews-name {
 
     margin-top: 5px;
     font-size: 16px;
@@ -569,11 +574,60 @@ img {
 
 }
 
-owl-carousel {
+.home .what-ecommerce-retailers-are-saying owl-carousel {
     width: 100%;
     
 }
 
+
+.home .what-ecommerce-retailers-are-saying blockquote::before {
+    font-family: Georgia,serif;
+    content: "“";
+    color: #E2E4E9;
+    float: left;
+}
+
+.home .what-ecommerce-retailers-are-saying a {
+    color: #7FC3ED !important;
+    text-decoration: none;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.home .what-ecommerce-retailers-are-saying .reviews-carousel .reviews-meta small {
+    font-size: 14px;
+    color: #59595A;
+}
+
+.home .what-ecommerce-retailers-are-saying .reviews-carousel blockquote::before {
+    color: #8A8A8A;
+    margin-bottom: 120px;
+}
+
+blockquote::before {
+    font-size: 40px;
+    margin-right: 10px;
+    line-height: 1;
+}
+
+
+a:hover, a:focus {
+    text-decoration: none;
+    border-bottom-width: 1px;
+    border-bottom-style: none !important;
+}
+
+a:hover, a:focus {
+    text-decoration: none;
+    border-bottom-width: 1px;
+    border-bottom-style: dotted;
+    color: red !important;
+}
+
+/*Media query*/
 @media only screen and (max-width : 1200px) {
 
         .first-section .wpb_wrapper {
