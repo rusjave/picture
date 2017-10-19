@@ -1,4 +1,24 @@
 /* your style here */
+a {
+    color: #7FC3ED;
+}
+
+.p25 {
+    padding: 25px;
+}
+
+#dt-menu li a {
+    display: block;
+    text-decoration: none;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 600;
+    font-size: 13px;
+    letter-spacing: 1px;
+}
+
+#dt-menu.dt-menu-right > ul {
+    text-align: right;
+}
 
 #head-page.adminbar-not-here.reveal.notopbar.solid {
   background: rgba(127,195,237,.95) !important;
@@ -652,8 +672,8 @@ a:hover, a:focus {
 }
 .page-id-17 .see-what-pixc  h1  {
     font-size: 36px;
-    margin-top: 52px;
-    margin-bottom: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 500;
 }
@@ -739,7 +759,6 @@ a:hover, a:focus {
     line-height: 1.42857143;
     color: #555;
 }
-.page-id-17 .
 
 .page-id-17 .p-work-frame  label {
     font-weight: 600;
@@ -763,6 +782,333 @@ a:hover, a:focus {
     padding-right: 50px;
     box-shadow: none;
     opacity: .65;
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-transform: capitalize;
+}
+
+.page-id-17 .note-section {
+    background-color: rgba(127,195,237,.9);
+    position: relative;
+}
+
+.page-id-17 .note-section .trial-note {
+    line-height: 1.3em;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 500;
+    letter-spacing: 1px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.page-id-17 .note-section .text-white a {
+    color: #fff;
+}
+
+/* PRICING PAGE */
+
+.page-id-127 #contact .container {
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+
+.page-id-127 #contact {
+    padding-bottom: 40px;
+}
+.page-id-127 #banner-section {
+    display: none;
+}
+.page-id-127 #contact .container h1{
+    line-height: 1.1;
+    color: #454545;
+    letter-spacing: 1px;
+    font-size: 36px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.page-id-127 #contact .pricing-table-list {
+    text-align: center;
+}
+
+.page-id-127 #contact .pricing-table-list .pricing-table {
+    width: 250px;
+    margin: 15px 10px;
+    background-color: #fff;
+    border: 1px solid #d8dcee;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    overflow: hidden;
+    color: #59595A;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 2;
+}
+
+.page-id-127 #contact .pricing-table-list .pricing-table .pricing-header {
+    background: #eaecf6;
+    padding: 8px;
+    line-height: 22px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.page-id-127 #contact .pricing-table-list .pricing-table .pricing-header .title {
+    font-size: 16px;
+    font-weight: 700;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.page-id-127 #contact .pricing-table-list .pricing-table .quantity {
+    font-size: 14px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.page-id-127 #contact .pricing-table-list .pricing-table .pricing-body {
+    padding: 15px 0 25px;
+    position: static;
+    overflow: hidden;
+}
+
+.page-id-127 #contact .pricing-table-list .pricing-table .plan-price {
+    margin: 15px 0;
+}
+
+.page-id-127 #contact .pricing-table-list .pricing-table .plan-price .heading-font {
+    font-weight: 700;
+    margin-bottom: 20px;
+    font-size: 40px;
+    color: #59595a;
+    line-height: 1.3em;
+}
+
+.page-id-127 #contact .pricing-table-list .pricing-table .plan-price span {
+    display: block;
+}
+
+.page-id-127 #contact .pricing-table-list .pricing-table .pricing-body .pricing-info {
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: -10px;
+    margin-bottom: 20px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.page-id-127 #contact .pricing-table-list .pricing-table .btn {
+    outline: 0;
+    -webkit-transition: .25s linear;
+    -moz-transition: .25s linear;
+    -o-transition: .25s linear;
+    transition: .25s linear;
+    padding: 10px 12px;
+    font-size: 14px;
+    line-height: 1;
+    font-weight: 900;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    text-transform: uppercase;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.page-id-127 #contact .pricing-table-list .pricing-table  .btn-color {
+    color: #fff;
+    background-color: #7FC3ED;
+    border-color: #7FC3ED;
+}
+
+.page-id-127 #contact .pricing-table-list .pricing-table  a:hover, a:focus {
+    text-decoration: none;
+    border-bottom-width: 1px;
+    border-bottom-style: dotted;
+    color: #fff !important;
+}
+
+.page-id-127 #contact .pricing-table-list .pricing-table p a:hover {
+  background: #69b9ea;
+}
+
+.page-id-127 #contact .pricing-table-list .pricing-table .pricing-body .most-popular {
+    background: #FF6414;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+    height: 1.75em;
+    font-weight: 700;
+    font-size: 1em;
+    position: absolute;
+    right: -140px;
+    top: 25px;
+    width: 320px;
+    margin-right: 20px;
+    margin-left: 30px;
+    color: #FFF;
+}
+
+.page-id-127 #contact .p-enterprise {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    color: #59595A;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.page-id-127 #contact .p-enterprise a {
+
+    color: #7FC3ED;
+    text-decoration: none;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+}
+
+.page-id-127 #contact p a:hover {
+ color: #52aee7 !important;
+}
+
+.page-id-127 #contact p {
+    color: #59595A !important;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 2;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+
+.page-id-127 #contact .p-jump {
+    display: block;
+    position: absolute;
+    font-size: 30px;
+    text-align: center;
+    color: #59595A;
+    margin-top: -50px;
+    z-index: 1010;
+    width: 100%;
+}
+
+.page-id-127 .ready-to-see-section {
+    background-color: #313840;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.page-id-127 .ready-to-see-section .container p{
+   color: #b6b8bb;
+   font-weight: 400;
+    font-size: 13px;
+    line-height: 2;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.page-id-127 .ready-to-see-section .container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.page-id-127 .ready-to-see-section .container .btn-danger, .btn-danger:focus, .btn-danger:hover {
+    background-color: #ff6414 !important;
+    border-color: #D75B1C;
+    padding: 16.5px 16px;
+}
+
+.page-id-127 .ready-to-see-section .container .btn-rounded {
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    border-radius: 40px;
+}
+
+
+.page-id-127 .ready-to-see-section .btn {
+    outline: 0;
+    -webkit-transition: .25s linear;
+    -moz-transition: .25s linear;
+    -o-transition: .25s linear;
+    transition: .25s linear;
+    padding: 10px 12px;
+    font-size: 14px;
+    line-height: 1;
+    font-weight: 900;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.page-id-127 .ready-to-see-section  a:hover {
+ color: #fff !important;
+}
+
+.page-id-127 .faq-section {
+    padding-top: 40px;
+    padding-bottom: 40px;   
+}
+
+.page-id-127 .faq-section  .container{
+    padding-top: 50px;
+    padding-bottom: 50px;   
+}
+
+.page-id-127 .faq-section  .container .section-title {
+    margin-bottom: 70px;
+    text-align: center;
+}
+
+.page-id-127 .faq-section  .container .section-title h4{
+    color: #454545;
+    letter-spacing: 1px;
+    line-height: 1.3em;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 2;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.page-id-127 .faq-section  .container  .color{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    letter-spacing: 1px;
+}
+
+.page-id-127 .faq-section  .container  p{
+    margin: 0 0 10px;
+    color: #59595A;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 2;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+
+.page-id-127 .faq-section  .container .section-footer h4{
+    color: #454545;
+    letter-spacing: 1px;
+    line-height: 1.3em;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 2;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+
+.page-id-127 .faq-section  .container a {
+    color: #7FC3ED;
+    text-decoration: none;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+}
+
+
+.page-id-127 .faq-section  a:hover {
+    color: #52aee7 !important;
+    text-decoration: none;
+    outline: 0;  
 }
 
 /* Footer section */
@@ -813,6 +1159,12 @@ a:hover, a:focus {
     .page-id-17  .container{
         width: 100% !important;
     }
+
+    .page-id-17 .see-what-pixc h1 {
+        margin-top: 20px;
+        margin-bottom: 0px;
+       
+    }
 }
 
 
@@ -828,5 +1180,14 @@ a:hover, a:focus {
        /* width: 100% !important;*/
     }
 
+    .page-id-17 .note-section .container {
+        padding-top: 50px;
+        padding-bottom: 50px;
+        width: 1170px !important;
+    }
+
+    .page-id-127 .faq-section .container {
+        width: 1170px !important;
+    }
 }
 
