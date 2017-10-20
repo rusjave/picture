@@ -246,6 +246,35 @@
 .f-w900{font-weight:900 !important;}    
 
 
+#head-page.alt #dt-menu > ul > li > a span::after, #head-page.alt #dt-menu > ul > li > a span::before {
+    background: none !important;
+}
+
+#dt-menu > ul #menu-item-173 > a {
+    background-color: #FF6414;
+    border-color: #FFF !important;
+    font-weight: 900;
+    font-size: 1.05em;
+    padding-left: 10px;
+    padding-right: 10px;
+    line-height: 20px;
+    border-radius: 40px;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    touch-action: manipulation;
+    cursor: pointer;
+    border: 1px solid transparent;
+    padding: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: #fff !important;
+}
+
+p {
+    margin: 0 0 10px;
+}
+
 a {
     color: #7FC3ED;
 }
@@ -316,7 +345,16 @@ a {
 }
 
 #dt-menu li:hover {
-  background: #81c1e8;
+  background: #82c1e9;
+}
+
+
+#dt-menu li a:hover {
+  color: #fff !important;
+}
+
+.page-id-2 #dt-menu li:hover {
+  background: transparent !important;
 }
 
 .home #head-page.alt #dt-menu > ul > li > a {
@@ -1249,7 +1287,7 @@ a:hover, a:focus {
     width: 100%;
 }
 
-.page-id-127 .ready-to-see-section {
+ .ready-to-see-section {
     background-color: #313840;
     padding-top: 40px;
     padding-bottom: 40px;
@@ -1510,6 +1548,92 @@ a:hover, a:focus {
     border-radius: 3px;
 }
 
+.page-id-145 .partners-section {
+    position: relative;
+}
+
+.page-id-145 .p-partners h2 {
+    margin: -40px 0 40px;
+    line-height: 1.1;
+    color: #454545;
+    letter-spacing: 1px;
+    font-size: 30px;
+    font-weight: 500;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.page-id-145 .partners-section .container{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.page-id-145 .p-partners .p-partner-logo {
+    margin: 0 auto 15px;
+    display: block;
+    max-width: 200px;
+    height: 80px;
+    background: 50% 50% no-repeat;
+    background-size: contain;
+}
+
+.page-id-145 .feature-description p {
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.page-id-145 .feature-description p a:hover {
+     color: #575757 !important;
+}
+
+
+.page-id-145 .p-partners .p-link {
+    color: #575757;
+    display: block;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.page-id-145 .ready {
+    background-color: #313840;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.page-id-145 .ready-to-see-section .container p {
+    color: #b6b8bb;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 2;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.page-id-145 .ready-to-see-section .container .btn-rounded {
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    border-radius: 40px;
+}
+
+.page-id-145 .ready-to-see-section .container .btn-danger, .btn-danger:focus, .btn-danger:hover {
+    background-color: #ff6414 !important;
+    border-color: #D75B1C;
+    padding: 16.5px 16px;
+}
+
+.page-id-145 .ready-to-see-section .btn {
+    outline: 0;
+    -webkit-transition: .25s linear;
+    -moz-transition: .25s linear;
+    -o-transition: .25s linear;
+    transition: .25s linear;
+    padding: 10px 12px;
+    font-size: 14px;
+    line-height: 1;
+    font-weight: 900;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
 /* Footer section */
 
 .tertier_color_bg {
@@ -1588,5 +1712,12 @@ a:hover, a:focus {
     .page-id-127 .faq-section .container {
         width: 1170px !important;
     }
+
+    .page-id-145 .partners-section .container{
+    width: 1170px !important;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
 }
 
