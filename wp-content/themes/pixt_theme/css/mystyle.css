@@ -245,7 +245,6 @@
 .f-w800{font-weight:800 !important;}
 .f-w900{font-weight:900 !important;}    
 
-
  #head-page.alt #dt-menu > ul > li > a span::after, #head-page.alt #dt-menu > ul > li > a span::before {
     background: none !important;
 }
@@ -316,10 +315,15 @@ a {
   box-shadow: none !important;
 }
 
-.home #head-page.adminbar-not-here.reveal.notopbar.solid.alt {
+.home #head-page.adminbar-not-here.reveal.notopbar.solid. {
     background: transparent !important;
   margin: 60px 0 !important;
 /*    float: right; */
+}
+
+
+#head-page.adminbar-not-here.reveal.notopbar.solid.alt #dt-menu li:hover {
+  background: #81c1e8 !important;
 }
 
 
@@ -349,7 +353,7 @@ a {
 }
 
 #dt-menu li:hover {
-  background: #82c1e9;
+  background: #81c1e8 !important;
 }
 
 
