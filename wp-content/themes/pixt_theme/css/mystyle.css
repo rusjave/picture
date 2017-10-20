@@ -246,7 +246,11 @@
 .f-w900{font-weight:900 !important;}    
 
 
-#head-page.alt #dt-menu > ul > li > a span::after, #head-page.alt #dt-menu > ul > li > a span::before {
+ #head-page.alt #dt-menu > ul > li > a span::after, #head-page.alt #dt-menu > ul > li > a span::before {
+    background: none !important;
+}
+
+.home #head-page.reveal #dt-menu > ul > li > a span::after, .home #head-page.reveal #dt-menu > ul > li > a span::before {
     background: none !important;
 }
 
