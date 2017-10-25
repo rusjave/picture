@@ -1760,6 +1760,131 @@ a:hover, a:focus {
     text-align: center;
 }
 
+/* CONTACT US */
+
+.page-id-192 #banner-section {
+    display: none;
+}
+
+.page-id-192 .address-section {
+    background-color: #eef0f8;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.page-id-192 .address-section h5 {
+    line-height: 1.1;
+    color: #454545;
+    letter-spacing: 1px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 500; 
+}
+
+.page-id-192 .address-section a {
+    color: #454545;
+}
+
+.page-id-192 .address-section a:hover {
+    color: #454545 !important;
+}
+
+.page-id-192 .say-hello-section .container {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.page-id-192 .say-hello-section .section-title {
+    margin-bottom: 70px;
+    text-align: center;
+}
+
+.page-id-192 .say-hello-section .section-title h4 {
+    line-height: 1.3em;
+    color: #454545;
+    letter-spacing: 1px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: 500;
+    font-size: 18px !important;
+     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.page-id-192 .say-hello-section .section-title p {
+    color: #59595A;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 2;
+}
+
+.page-id-192 .say-hello-section label {
+    font-weight: 400;
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-size: 13px;
+    line-height: 2;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+
+.page-id-192 .say-hello-section .form-control {
+    border: 1px solid #d8dcee;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    box-shadow: none;
+    -webkit-transition: border .25s linear,color .25s linear,background-color .25s linear;
+    -moz-transition: border .25s linear,color .25s linear,background-color .25s linear;
+    -o-transition: border .25s linear,color .25s linear,background-color .25s linear;
+    transition: border .25s linear,color .25s linear,background-color .25s linear;
+    font-size: 13px;
+}
+
+.page-id-192 .say-hello-section textarea.form-control {
+    min-height: 150px;
+    resize: none;
+}
+
+.page-id-192 .say-hello-section .btn-color.btn-outline {
+    background-color: transparent;
+    color: #7FC3ED;
+    line-height: 1.3em;
+}
+
+.page-id-192 .say-hello-section .btn-group-lg > .btn, .btn-lg {
+    padding: 16.5px 16px !important;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px !important;
+}
+
+.page-id-192 .say-hello-section .btn {
+    outline: 0;
+    -webkit-transition: .25s linear;
+    -moz-transition: .25s linear;
+    -o-transition: .25s linear;
+    transition: .25s linear;
+    padding: 10px 12px;
+    font-size: 14px;
+    line-height: 1;
+    font-weight: 900;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    border-color: #7FC3ED !important;
+}
+
+.page-id-192 .say-hello-section .btn-color.active, .btn-color:active, .btn-color:focus, .btn-color:hover, .open .dropdown-toggle.btn-color {
+    border-color: #69b9ea !important;
+}
+
+
+.page-id-192 .say-hello-section .btn-color.btn-outline.active, .btn-color.btn-outline:active, .btn-color.btn-outline:focus, .btn-color.btn-outline:hover {
+    background-color: #7FC3ED !important;
+    color: #fff !important;
+}
+
 /* Footer section */
 
 .tertier_color_bg {
@@ -1848,6 +1973,13 @@ a:hover, a:focus {
     .page-id-175 .legal-content-section .container {
         width: 1170px !important;
     }
+
+    .page-id-192 .say-hello-section .container {
+        padding-top: 100px;
+        padding-bottom: 100px;
+         width: 1170px !important;
+}
+
 
 }
 
