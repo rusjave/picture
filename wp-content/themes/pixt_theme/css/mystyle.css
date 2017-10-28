@@ -1,4 +1,4 @@
-
+﻿
 /* your style here */
 
  body {
@@ -419,9 +419,9 @@ a {
 
 .home .content {
   background: #292e33 url(http://pixt.dev/wp-content/uploads/2017/10/homepage-laptop.jpg?id=12) no-repeat;
-    background-size: 100%;
-    width: 100%;
-    height: 986px;
+  background-size: 100%;
+  width: 100%;
+  /* height: 986px; */
   padding: 100px 0 !important;
 /*    background-position: 50% -23px;
     position: absolute;
@@ -2292,3 +2292,19 @@ section {
 
 }
 
+.vc_column-inner {
+  padding: 0 !important;
+}
+
+body.home > .content {
+  overflow: hidden;
+}
+
+.home .is-sticky-menu #mega_main_menu_ul {
+  text-align: right !important;
+}
+
+.is-sticky-menu #mega_main_menu_ul {
+  float: none;
+  text-align: center !important;
+}
