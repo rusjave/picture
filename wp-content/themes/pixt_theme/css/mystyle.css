@@ -2075,6 +2075,114 @@ a:hover, a:focus {
     border: 0;
 }
 
+/* GALLERY */
+.page-id-141 .see-what-pic-content {
+    top: 90px !important;
+    background-color: #313840;
+}
+
+.page-id-141 .fixedForm {
+    position: absolute;
+    width: 22%;
+    right: 25px;
+    padding: 15px 20px !important;
+    z-index: 1050;
+}
+
+.page-id-141 .fixedForm h1 {
+    font-size: 32px;
+    line-height: 1.1;
+    letter-spacing: 1px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: 500;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.page-id-141 .fixedForm .form-control {
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    background-color: #fff;
+}
+
+.page-id-141 .fixedForm .btn-danger, .btn-danger:focus, .btn-danger:hover {
+    background-color: #ff6414 !important;
+    border-color: #D75B1C;
+}
+
+.page-id-141 .fixedForm .btn {
+    outline: 0;
+    -webkit-transition: .25s linear;
+    -moz-transition: .25s linear;
+    -o-transition: .25s linear;
+    transition: .25s linear;
+    padding: 10px 12px;
+    font-size: 14px;
+    line-height: 1;
+    font-weight: 900;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.page-id-141 .fixedForm #portfolio, .isotope {
+    z-index: 0;
+}
+
+.page-id-141 .fixedForm #portfolio, .light, .light a {
+    color: #575757;
+}
+
+.page-id-141 .fixedForm .light {
+    background-color: #eaecf6;
+}
+
+
+.page-id-141 .fixedForm .portfolio-frame {
+    margin: 90px 40px;
+}
+
+.page-id-141 .no-p {
+    padding: 0 !important;
+}
+
+
+.page-id-141 .fixedForm.gallery .photo img {
+    width: 100% !important;
+}
+
+.page-id-141 .portfolio-item .overlay-hover {
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.page-id-141 .portfolio-item .overlay-hover {
+    background-color: transparent;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+
+.page-id-141 .gallery .photo img {
+    width: 100%;
+}
+
+section {
+    position: relative;
+    overflow: hidden;
+}
+
+.page-id-141 #banner-section {
+    display: none;
+}
+
+.page-id-141 .portfolio-frame {
+    margin: 90px 40px;
+}
 /* Footer section */
 
 .tertier_color_bg {
