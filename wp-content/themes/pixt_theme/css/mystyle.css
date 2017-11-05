@@ -248,7 +248,11 @@
 .f-w600{font-weight:600 !important;} 
 .f-w700{font-weight:700 !important;}
 .f-w800{font-weight:800 !important;}
-.f-w900{font-weight:900 !important;}    
+.f-w900{font-weight:900 !important;}  
+
+#menu-item-253  {
+    display: none !important;
+}
 
  #mega_main_menu.first-lvl-align-right > .menu_holder > .menu_inner > ul{
     float: right !important;
@@ -2528,4 +2532,93 @@ body.home > .content {
         padding: 5px 0;
     }
 
- {
+}
+
+@media only screen and (max-width : 480px) {
+
+#menu-item-253 {
+    display: block !important;
+    background: url('http://pixt.dev/wp-content/themes/zeyn/images/logo.png') no-repeat; 
+  background-position-y: 15px;
+    font-size: 0 !important;
+  height: 87px !important;
+  margin: 0 !important;
+    padding: 15px 0 0 !important;
+}
+
+#menu-item-253:hover {
+  height: 87px !important;
+}
+
+#menu-item-253 .link_text  {
+    font-size: 0 !important;
+}
+
+body > .top-head > #head-page > .container {
+  padding: 0 !important;
+}
+
+.mobile_button {
+  padding-top: 0 !important;
+  font-size: 0 !important;
+}
+
+.symbol_menu {
+  font-size: 18px !important;
+}
+
+.gallery-box {
+
+}
+
+.portfolio-item .overlay-hover:hover {
+  opacity: 1 !important;
+}
+
+#main-nav-check {
+  display: none !important;
+}
+
+#mobile-header {
+
+}
+
+#head-page > .container:nth-child(2) {
+  display: none;
+}
+
+.menu-item:hover {
+  background: pink !important;
+  height: 51px !important;
+  line-height: 51px !important;
+}
+
+.menu-item-type-search {
+  display: none;
+}
+
+.home #head-page.adminbar-not-here.reveal.notopbar.solid.alt {
+  margin: 0 !important;
+}
+
+.nav_logo.mobile_menu_active {
+  display: none !important;
+}
+
+#mega_main_menu.first-lvl-align-right > .menu_holder > .menu_inner > ul {
+  float: none !important;
+}
+
+}
+
+.logo-desktop {
+  display: none !important;
+}
+
+.type-post, .type-page {
+  top: 0 !important;
+}
+
+.post-article .container:nth-child(2) {
+  padding-top: 187px !important;
+}
